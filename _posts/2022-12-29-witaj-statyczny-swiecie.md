@@ -28,7 +28,7 @@ Tworzenie bloga ma wiele zalet takich jak:
 
 ## Jak działa ten blog?
 
-Strona powstała z użyciem generatora stron statycznych [Jekyll](https://jekyllrb.com/). 
+Strona powstała z użyciem generatora stron statycznych [Jekyll](https://jekyllrb.com/){:target="_blank"}. 
 Wpisy dodawane są poprzez tworzenie dokumentów w Markdown (prostym formacie tekstowym).
 Po dodaniu tekstu do repozytorium Git następuje automatyczne wygenerowanie strony w postaci plików Html i umieszczenie na hostingu.
 
