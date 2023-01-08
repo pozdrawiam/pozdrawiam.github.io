@@ -8,6 +8,9 @@ tags: [trendy, rust]
 Rust to język programowania o wysokim poziomie abstrakcji, który został stworzony przez firmę Mozilla w 2010 roku, a stabilna wersja 1.0 została wydana w 2015 roku.
 Od tego czasu ciągle zyskuje on na popularności, a co raz więcej osób deklaruje, że chce się go uczyć. Czy warto się nim zainteresować?
 
+![Pomarańczowy krab Ferris - maskotka Rust](/assets/img/posts/rustacean.png){: w="400" }
+_Pomarańczowy krab Ferris - maskotka Rust_
+
 ## StackOverflow Survey
 
 Stack Overflow to popularne forum internetowe dla programistów, na którym można zadawać pytania i uzyskiwać odpowiedzi dotyczące programowania. Co roku Stack Overflow przeprowadza badanie, w którym pyta programistów o ich preferencje i opinie dotyczące różnych aspektów pracy zawodowej. Mówi się żartobliwie, że jak Stack nie działa to programiści nie mogą pracować.
@@ -22,7 +25,7 @@ Prawdopodobne przyczyny to jego główne zalety:
 
 * Bezpieczeństwo: Rust posiada mechanizmy zapobiegające błędom i awariom, takie jak brak dostępu do null, brak segmentacji pamięci i brak wycieków pamięci. Dzięki temu jest on szczególnie dobrym wyborem dla aplikacji wymagających bezpieczeństwa i niezawodności, takich jak systemy operacyjne, aplikacje sieciowe czy narzędzia programistyczne. Rust jest również dobrym wyborem dla aplikacji, które przetwarzają duże ilości danych lub obsługują wielu użytkowników jednocześnie, ponieważ mechanizmy bezpieczeństwa w Rust zapewniają niezawodność i stabilność tych aplikacji. Programiści mogą więc docenić tę cechę Rust i wybierać go szczególnie często, gdy potrzebują języka o wysokim poziomie bezpieczeństwa i niezawodności.
 
-W związku z powyższymi jest dobrą alternatywną szczególnie dla C/C++ (mówi się, że nowe projekty powinno pisać się w Rust zamiast C++).
+W związku z powyższymi jest dobrą alternatywną szczególnie dla C/C++ (mówi się, że nowe projekty powinny powstawać w Rust zamiast C++).
 
 Warto podkreślić, że nie jest jeszcze tak często używany w produkcji jak inne, bardziej popularne języki programowania, takie jak Java czy C#. Może to sprawiać, że programiści nie mieli jeszcze okazji przetestować go w trudnych warunkach produkcyjnych i nie zdążyli przeżyć negatywnych doświadczeń z nim związanych. 
 
@@ -53,7 +56,7 @@ W ostatnim czasie wiele dystrybucji Linuksa zaczyna wykorzystywać Rust do tworz
 
 Rust jest również coraz częściej używany do tworzenia różnych elementów jądra Linuksa, co pozwala na zwiększenie bezpieczeństwa i niezawodności systemu. Warto zaznaczyć, że jądro Linuksa jest bardzo ważnym i odpowiedzialnym elementem systemu, dlatego też jego bezpieczeństwo i niezawodność są priorytetem dla wielu firm i organizacji.
 
-Discord (komunikator internetowy do komunikacji głosowej i tekstowej) [zamienia Go na Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust){:target="_blank"}.
+Discord (popularny komunikator internetowy do komunikacji głosowej i tekstowej) [zamienia Go na Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust){:target="_blank"}.
 
 ## Podsumowując
 
