@@ -17,4 +17,4 @@ Dbam o długofalowe skutki podejmowanych decyzji oraz o szybkie dostarczanie war
 
 Strona wykorzystuje pliki cookies za pośrednictwem Google Analitics. 
 Narzędzie służy do tworzenia statystyk ruchu na stronie np. ile osób przeczytało dany wpis.\
-Ciasteczka można zablokować poprzez odpowiednie ustawienia przeglądarki.
+Ciasteczka tego mechanizmu można zablokować poprzez odpowiednie ustawienia przeglądarki.
