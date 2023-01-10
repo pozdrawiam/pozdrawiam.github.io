@@ -1,5 +1,5 @@
 ---
-title: "\"Higiena\" i wydajność pracy biurowej"
+title: Higiena i wydajność pracy biurowej
 date: 2023-01-08 13:25
 categories: [Rozwój, Produktywność]
 tags: [biuro, wydajność, zdrowie]
