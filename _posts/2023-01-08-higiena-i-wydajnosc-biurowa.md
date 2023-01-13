@@ -50,8 +50,16 @@ Kwestią sporną jest czy używać trybu jasnego czy ciemnego w aplikacjach.\
 W pracy (czyli za dnia) preferuję light mode gdyż jest bardziej naturalny - czarne na białym jak na papierze, lepiej mi się czyta, a z rana rozbudza.\
 Po pracy gdy siadam do komputera wieczorem próbuję zmuszać się do dark mode, co wydaje się być zdrowsze o tej porze dnia. O dark mode można więcej przeczytać w artykule: [Is Dark Mode Good For Your Eyes?](https://kevquirk.com/is-dark-mode-such-a-good-idea/){:target="_blank"}.
 
-
 Nasze oczy są bardzo ważnym narządem i należy o nie odpowiednio dbać, szczególnie w przypadku długotrwałej pracy przy komputerze, czy nawet czytania książek i dokumentów z niewielkiej odległości.
+
+## Mysz pionowa
+
+Myszy pionowe, zwane również myszkami ergonomicznymi, są specjalnie zaprojektowane, aby pomóc w utrzymaniu prawidłowej pozycji dłoni podczas pracy przy komputerze. Myszy tego typu mają unikalny kształt, który pozwala na trzymanie ich w pozycji pionowej, co zmniejsza nacisk na dłoń i przynosi ulgę w bólu i zmęczeniu mięśni. Dodatkowo, myszy tego typu mogą pomóc w zmniejszeniu ryzyka rozwoju chorób związanych z pracą przy komputerze, takich jak zespół cieśni nadgarstka. 
+
+Warto rozważyć zastosowanie myszy pionowej, jeśli pracujesz przy komputerze przez długi czas lub jeśli masz problemy z dłoniami, albo miałeś jakiś uraz ręki.
+W moim przypadku doznałem znacznej ulgi. Odkąd używam takiej myszki nie odczuwam już bólu nadgarstka, a wcześniej pojawiał się regularnie - zwykle pod koniec tygodnia pracy.
+
+Minusem jest nieco mniejsza precyzja (szczególnie na początku) więc takie myszki nie nadają się np. do dynamicznych gier takich jak w Counter-Strike itp.
 
 ## Higiena czyli porządek
 
