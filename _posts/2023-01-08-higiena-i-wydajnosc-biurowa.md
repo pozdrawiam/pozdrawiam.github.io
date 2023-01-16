@@ -30,6 +30,8 @@ W Polsce przepisy kodeksu pracy przewidują, że pracownik ma prawo do jednej pr
 
 Nawodnienie organizmu jest niezwykle ważne dla naszego zdrowia i dobrego samopoczucia. Woda pełni wiele ważnych funkcji w naszym organizmie, m.in. transportuje składniki odżywcze, reguluje temperaturę ciała czy usuwa zbędne produkty przemiany materii. Dlatego ważne jest, by dostarczać odpowiednią ilość wody do organizmu, aby utrzymać prawidłowe funkcjonowanie organizmu. Zaleca się, by dziennie wypijać około 2 litrów wody dla osoby dorosłej. Można to osiągnąć poprzez picie wody w ciągu dnia oraz poprzez spożywanie produktów, które zawierają dużo wody, takich jak owoce czy warzywa. Warto raz sobie policzyć w ciągu dnia ile płynów spożywamy, gdyż wiele osób pije zbyt mało.
 
+Brak odpowiedniego nawodnienia może powodować nawet kamicę nerkową, która sprawia ogromny ból. Picie odpowiedniej ilości wody może pomóc rozpuszczać kamienie nerkowe i zapobiegać ich tworzeniu się. Osoby z podwyższonym ryzykiem tworzenia się kamieni nerkowych powinny pić szczególnie dużo wody, aby rozcieńczyć substancje, które mogą prowadzić do tworzenia się kamieni.
+
 Ważne, by nawadniać organizm **szczególnie w okresach wysokich temperatur** czy podczas wysiłku fizycznego. Woda jest niezbędna dla naszego zdrowia i dobrego samopoczucia, dlatego warto o nią dbać.
 
 ## Wzrok
@@ -59,6 +61,9 @@ Myszy pionowe, zwane również myszkami ergonomicznymi, są specjalnie zaprojekt
 Warto rozważyć zastosowanie myszy pionowej, jeśli pracujesz przy komputerze przez długi czas lub jeśli masz problemy z dłoniami, albo miałeś jakiś uraz ręki.
 W moim przypadku doznałem znacznej ulgi. Odkąd używam takiej myszki nie odczuwam już bólu nadgarstka, a wcześniej pojawiał się regularnie - zwykle pod koniec tygodnia pracy.
 
+![Mysz pionowa, a tradycyjna](/assets/img/posts/vertical-mouse-bones.jpg){: w="700" }
+_Porównanie ułożenia kości przedramienia dla myszy pionowej i tradycyjnej_
+
 Minusem jest nieco mniejsza precyzja (szczególnie na początku) więc takie myszki nie nadają się np. do dynamicznych gier takich jak w Counter-Strike itp.
 
 ## Higiena czyli porządek
@@ -71,6 +76,16 @@ W komputerze również warto dbać o _czystość_:
 * porządek i organizacja na pulpicie - niepotrzebne pliki powinny zniknąć
 * w tle nie powinny działać żadne zbędne aplikacje, które mogą zakłócać naszą uwagę czy nawet pracę samego komputera
 * wdrożyć zasady zero inbox/list - np. w przypadku poczty email polega to na czyszczeniu skrzynki odbiorczej, czyli gdy nie mam nic do odpisania lub przeczytania lista ta jest pusta
+
+## Open space nie dla każdego
+
+Open space, czyli przestrzeń otwarta, pozwala na łatwiejszą komunikację między pracownikami oraz umożliwia lepszą koordynację pracy w zespole. Jednak mimo coraz większej popularności, taki styl pracy nie jest dobry dla każdego. Osoby, które potrzebują więcej ciszy i skupienia np. programiści, mogą mieć trudności z koncentracją w hałaśliwym otoczeniu open space.
+
+Również pracownicy, którzy pracują z wykorzystaniem słuchawek lub z dokumentami wrażliwymi, mogą mieć trudności z zachowaniem prywatności i bezpieczeństwa danych w przestrzeni open space.
+Open space może też prowadzić do większej liczby interakcji między pracownikami, co może być korzystne dla niektórych, ale dla innych może prowadzić do wyczerpania i stresu.
+
+Dlatego, przed wyborem open space jako rozwiązania przestrzennego, warto rozważyć indywidualne potrzeby pracowników i zastanowić się, czy taki styl pracy będzie odpowiedni dla nich oraz dla charakteru pracy jaką wykonują. 
+Alternatywą dla open space jest przestrzeń zamknięta, takie jak gabinety, co pozwala na zachowanie prywatności i skupienia.
 
 ## Znaj swoje narzędzia
 
@@ -93,6 +108,27 @@ Warto trzymać się tych ram jeżeli zależy nam na efektywności, samopoczuciu 
 
 Przydatnym aspektem jest ustalenie ram czasowych na koncentrację (czyli wspomniany czas niedostępności) i rzeczy płytkie takie jak odpisywanie na maile. Dzięki będziemy mogli skupić się na rzeczach trudnych oraz zdążymy załatwić codzienne proste sprawy.
 
+## Eliminuj rozpraszacze
+
+1. Ustal sobie cele i priorytety: określ, co jest ważne, i skup się na tym.
+1. Dokończ jedno zadanie, a dopiero potem przejdź do następnego.
+1. Duże zadania podziel na mniejsze.
+1. Wyłącz nie potrzebne aplikacje w danej chwili.
+1. Sprawdzaj skrzynkę pocztową i inne tylko w ustalonym czasie.
+1. Wyłącz powiadomienia.
+1. Jeżeli możesz to wyłącz nawet internet.
+1. Skorzystaj ze wspominanej wcześniej metody Pomodoro (25 minut skupienia, 5 minut przerwy) - szczególne gdy jest Ci ciężko zacząć pracę nad trudnym zadaniem.
+
+Warto sprawdzić możliwości trybów skupienia w telefonie czy innych urządzeniach.
+U mnie są to: 
+- Sen (ustalone godziny)
+- Praca (również ustalone godziny)
+- Jazda (gdy telefon połączy się z samochodem)
+- Nie przeszkadzać (włączany ręcznie np. gdy czytam książki)
+
+Pozwala to na kontrolę powiadomień z aplikacji oraz od wybranych osób.
+
+
 ## Podsumowanie
 
-Higiena i wydajność pracy biurowej to pozornie niewielkie, ale w długim okresie czasowym kluczowe elementy, które warto brać pod uwagę, aby utrzymać zdrowie i dobre samopoczucie podczas wykonywania swoich zadań i projektów. Warunki w miejscu pracy i inne wymienione zagadnienia pomagają w zwiększeniu skupienia i zmniejszeniu ryzyka wystąpienia problemów związanych z pracą przy komputerze oraz szybszym wyszukiwaniu informacji co zwiększa nasz potencjał.
+Higiena i wydajność pracy biurowej to pozornie niewielkie, ale w długim okresie czasowym kluczowe elementy, które warto brać pod uwagę, aby utrzymać zdrowie i dobre samopoczucie podczas wykonywania swoich zadań i projektów. Warunki w miejscu pracy i inne wymienione zagadnienia pomagają w zwiększeniu skupienia, zmniejszeniu stresu i ryzyka wystąpienia problemów związanych z pracą przy komputerze oraz szybszym wyszukiwaniu informacji co zwiększa nasz potencjał.
