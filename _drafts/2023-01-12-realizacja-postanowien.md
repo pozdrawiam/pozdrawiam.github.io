@@ -5,13 +5,16 @@ categories: [Rozwój, Produktywność]
 tags: [nawyki]
 ---
 
-Początek roku to czas gdy wszelkie Janusze i Grażyny składają sobie ambitne postanowienia dotyczące zmian, jakie chcą wprowadzić w swoim żywocie. 
+Początek roku to czas gdy wszelkie Janusze i Grażyny składają sobie ambitne postanowienia dotyczące zmian, jakie chcą wprowadzić w swojej egzystencji. 
 Często są to cele dotyczące zdrowia, pracy, czy relacji z innymi ludźmi. Niestety, wiele osób składa sobie postanowienia, które nie są realne do zrealizowania lub też nie do końca wiedzą, jak się za nie zabrać. 
 
 ## Rodzaje celów
 
 Cele mogą być małe i duże. Czasami może być to pojedyncze zadanie, lub kilka mniejszych, a czasem potrzeba systematyczności żeby kiedyś go osiągnąć.
 
+Np. wizyta u dentysty składa się z umówienia się na nią oraz samej wizyty. W takim przypadku wystarczy przemóc się do zaplanowania zadania.
+
+Czym innym jest np. nauka gry na instrumencie. Tutaj potrzeba konsekwencji i regularności.
 
 ## Określ swój cel
 
@@ -26,12 +29,17 @@ Ważne jest również, aby ustalać sobie cele, które są dla nas ważne i odpo
 
 ## Kategorie celów
 
-Warto mieć wiele celów z dotyczących różnych tematów życia.
+Warto mieć wiele celów dotyczących różnych tematów życia. Najlepiej po jednym z każdej kategorii.
+Zdrowie, finanse, praca, relacje, hobby, nowe umiejętności.
 
 ## Mierzalność
 
-Ustal termin realizacji celu. Określenie konkretnego terminu pomaga skupić się na działaniach, które trzeba podjąć, aby osiągnąć cel.
+Ustal termin realizacji celu. Określenie konkretnego terminu pomaga skupić się na działaniach, które trzeba podjąć, aby osiągnąć cel.\
 Monitoruj swoje postępy. Regularne sprawdzanie postępów pozwala na szybkie reagowanie, jeśli coś idzie nie tak i na dostosowanie planu działań.
+
+Np. zamiast "będę więcej jeździć na rowerze"\
+ustal "będę jeździć na rowerze raz w tygodniu".\
+W takim przypadku bardzo łatwo walidować czy trzymasz się postanowienia.
 
 ## Zmień cel w nawyk
 
