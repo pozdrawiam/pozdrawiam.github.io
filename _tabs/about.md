@@ -12,6 +12,9 @@ Pragmatyczny blog to miejsce, gdzie znajdziesz rzeczowe i merytoryczne treści, 
 Jestem programistą z wieloletnim doświadczeniem, specjalizującym się głównie w języku C#. Od 2015 roku zajmuję się tworzeniem aplikacji webowych i rozwiązań dla firm z różnych branż. W mojej pracy cenię sobie przede wszystkim efektywność i skuteczność.\
 Dbam o długofalowe skutki podejmowanych decyzji oraz o szybkie dostarczanie wartości, dlatego zawsze stawiam na solidne podstawy i dobre zarządzanie projektami.
 
+### Tryb ciemny i jasny
+
+Strona domyślnie ustawia wygląd w zależności od preferencji przeglądarki. Można to przełączać ikoną <i class="fas fa-adjust"></i> w stopce panelu bocznego.
 
 ### Polityka prywatności
 
