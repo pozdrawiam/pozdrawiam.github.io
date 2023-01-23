@@ -5,7 +5,7 @@ categories: [Rozwój, Produktywność]
 tags: [nawyki]
 ---
 
-Początek roku to czas gdy wszelkie Janusze i Grażyny składają sobie ambitne postanowienia dotyczące zmian, jakie chcą wprowadzić w swojej egzystencji. 
+Początek roku to czas gdy wszelkie Janusze i Grażyny składają sobie ambitne postanowienia dotyczące zmian, jakie podobno chcą u siebie wprowadzić. 
 Często są to cele dotyczące zdrowia, pracy, czy relacji z innymi ludźmi. Niestety, wiele osób składa sobie postanowienia, które nie są realne do zrealizowania lub też nie do końca wiedzą, jak się za nie zabrać. 
 
 ## Rodzaje celów
@@ -29,8 +29,14 @@ Ważne jest również, aby ustalać sobie cele, które są dla nas ważne i odpo
 
 ## Kategorie celów
 
-Warto mieć wiele celów dotyczących różnych tematów życia. Najlepiej po jednym z każdej kategorii.
-Zdrowie, finanse, praca, relacje, hobby, nowe umiejętności.
+Warto mieć wiele celów dotyczących różnych tematów życia. Najlepiej zawsze po jednym z każdej kategorii tak zwanego heksagonu szczęścia, co da poczucie ciągłego progresu i ogólnego zadowolenia.
+
+* Zdrowie fizyczne i psychiczne: np. regularne ćwiczenia, zdrowe odżywianie, rzucenie palenia.
+* Finanse: np. dodatkowe źródła dochodu, tworzenie poduszki finansowej, spłacanie długów.
+* Kariera: np. awas, zmiana pracy, założenie biznesu, zadbanie o jakość i wydajność w pracy, powinniśmy robić to co lubimy.
+* Relacje: np. spędzanie więcej czasu z rodziną, poznawanie nowych ludzi.
+* Rozwój osobisty: np. zdobywanie nowych umiejętności, kończenie kursów.
+* Czas dla siebie: np. rozwijanie swoich pasji i hobby.
 
 ## Mierzalność
 
@@ -43,8 +49,9 @@ W takim przypadku bardzo łatwo walidować czy trzymasz się postanowienia.
 
 ## Zmień cel w nawyk
 
-1. Bądź elastyczny. Życie jest pełne niespodzianek, dlatego trzeba być elastycznym i gotowym na zmiany. Jeśli coś idzie nie tak, trzeba być gotowym na dostosowanie planu działań.
-1. Nie bój się pomocy. Jeśli masz trudności z realizacją swoich celów, nie bój się poprosić o pomoc innych osób, na przykład mentora czy trenera.
+Bądź elastyczny. Życie jest pełne niespodzianek, dlatego trzeba być elastycznym i gotowym na zmiany. Jeśli coś idzie nie tak, trzeba być gotowym na dostosowanie planu działań.
+
+Nie bój się pomocy. Jeśli masz trudności z realizacją swoich celów, nie bój się poprosić o pomoc innych osób, na przykład mentora czy trenera.
 
 Realizując swoje cele zgodnie z tymi zasadami, zwiększasz swoje szanse na osiągnięcie sukcesu. Pamiętaj, że realizacja celów to proces, który wymaga cierpliwości, systematyczności i determinacji. Dlatego ważne jest, aby nie zniechęcać się przeszkodami, które mogą pojawić się na drodze do ich realizacji.
 
@@ -56,4 +63,4 @@ W końcu, pamiętaj, że realizacja celów to proces, który wymaga czasu i prac
 
 ## Podsumowanie
 
-Tymczasem ustalanie i realizowanie swoich celów to umiejętność, którą warto posiąść gdyż jest ona kluczowym elementem sukcesu w życiu.
+Ustalanie i realizowanie swoich celów to umiejętność, którą warto posiąść gdyż jest ona kluczowym elementem sukcesu w życiu.
