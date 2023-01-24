@@ -22,6 +22,7 @@ Tworzenie bloga ma wiele zalet takich jak:
 * Potrzeba wyrażenia siebie. Blogowanie może być sposobem na wyrażenie swoich myśli i poglądów na temat różnych aspektów własnej specjalizacji czy również bardziej przyziemnych zagadnień.
 * Chęć rozwoju umiejętności pisania. Pisząc bloga, można ćwiczyć swoje umiejętności pisarskie i rozwijać swoje umiejętności komunikacyjne, co może być przydatne w pracy zawodowej i na co dzień.
 * Kontakt z innymi. Blogowanie może być sposobem na nawiązanie kontaktu z innymi specjalistami z danej branży i dzielenie się pomysłami oraz doświadczeniami.
+* Budowanie marki osobistej. Blog może być jednym z elementów marki własnej np. obok kanału YouTube, czy listy mailingowej.
 
 Humorystyczne podejście do tematu: [startafuckingblog.com](https://startafuckingblog.com/){:target="_blank"}.
 
