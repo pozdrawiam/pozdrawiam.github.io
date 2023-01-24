@@ -61,6 +61,13 @@ W przypadku trudności z realizacją swoich celów, ważne jest, aby nie rezygno
 
 W końcu, pamiętaj, że realizacja celów to proces, który wymaga czasu i pracy, ale jest też źródłem satysfakcji i rozwoju. Dlatego warto poświęcić czas i wysiłek na ustalanie i realizowanie swoich celów, aby osiągnąć to, czego pragniesz w życiu.
 
+## Nie czekaj do nowego roku
+
+Często postanowienia noworoczne są podejmowane pochopnie, bez przemyślenia i planowania, bądź pod wpływem impulsu, co prowadzi do niepowodzenia.
+Nowy rok nie jest magiczną datą, która automatycznie zwiększa motywację czy zmienia nasze nawyki.
+Warto by było ustalać cele i postanowienia wtedy, gdy jest się gotowym na ich realizację, a nie tylko dlatego że w kalendarzu jest kolejny rok.
+Każdy dzień jest dobrym dniem na rozpoczęcie działania i ustalenie celów.
+
 ## Podsumowanie
 
-Ustalanie i realizowanie swoich celów to umiejętność, którą warto posiąść gdyż jest ona kluczowym elementem sukcesu w życiu.
+Ustalanie i realizowanie swoich celów to umiejętność, którą warto posiąść gdyż jest ona kluczowym elementem sukcesów w życiu.
