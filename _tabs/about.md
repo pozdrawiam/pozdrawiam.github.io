@@ -16,6 +16,15 @@ Dbam o długofalowe skutki podejmowanych decyzji oraz o szybkie dostarczanie war
 
 Strona domyślnie ustawia wygląd w zależności od preferencji przeglądarki. Można to przełączać ikoną <i class="fas fa-adjust"></i> w stopce panelu bocznego.
 
+### Licencja
+
+Wszystko, co znajduje się na tej stronie, jest tworzone na licencji Creative Commons Attribution - Share Alike 4.0 (chyba że podano inaczej), co oznacza, że:
+
+* Masz prawo dzielić się, kopiować i rozpowszechniać treści na różnych nośnikach lub formatach.
+* Możesz również przystosowywać, remiksować, przekształcać i opierać się na materiałach do dowolnego celu, nawet komercyjnego.
+* Jeśli remiksujesz, przekształcasz lub opierasz się na materiałach, musisz dystrybuować swoje prace na tej samej licencji, co oryginał.
+* Nie możesz stosować warunków prawnych lub środków technologicznych, które legalnie ograniczają innych od robienia tego, co pozwala licencja.
+
 ### Polityka prywatności
 
 Strona wykorzystuje pliki cookies za pośrednictwem Google Analitics. 
