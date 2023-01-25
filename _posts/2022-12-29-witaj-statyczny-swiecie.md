@@ -46,3 +46,10 @@ Zalety Jekyll (i podobnych rozwiązań) względem WP:
 
 Zatem rozwiązania oparte o generatory plików statycznych mogą skutecznie rywalizować z WP.
 Imo warto się z nimi zapoznać. Jekyll jest najpopularniejszy, alternatywy to np. Hugo, Gatsby/VuePress, Hexo, Pelican.
+
+Łatwiejsze sposoby na zakładanie blogów to hostingi systemów blogowych i platformy do publikacji wpisów np. [Medium](https://medium.com/){:target="_blank"}.
+
+## Podsumowanie
+
+Pisanie wpisów na bloga ma wiele korzyści, nie wymaga ciągłego zaangażowania oraz można je łatwo zacząć, dlatego jest zajęciem, które warto rozważyć.\
+Więcej informacji o tym blogu znajduje się w zakładce _O stronie_.
