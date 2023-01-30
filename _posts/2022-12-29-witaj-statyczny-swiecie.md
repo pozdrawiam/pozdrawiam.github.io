@@ -12,13 +12,13 @@ Na tym blogu będę pisał o różnych aspektach programowania oraz tematach war
 ## Skąd pomysł na ten blog
 
 Stworzenie bloga czy strony wizytówki chodziło za mną od dawna. Jest to popularne zajęcie po pracy wśród specjalistów branży IT i stanowi jeden z elementów marki osobistej. 
-Natłok obowiązków i innych zajęć sprawił, że temat długo odwlekałem, ale motywację dała mi chęć poznania technologii statycznych generatorów stron tudzież alternaty dla Wordpressa (popularnego narzędzia do tworzenia stron i blogów, z którym mam wiele doświadczenia - szczególnie technicznej obsługi).
+Natłok obowiązków i innych zajęć sprawił, że temat długo odwlekałem, ale motywację dała mi chęć poznania technologii statycznych generatorów stron tudzież alternatywy dla Wordpressa (popularnego narzędzia do tworzenia stron i blogów, z którym mam wiele doświadczenia - szczególnie technicznej obsługi).
 
 ## Dlaczego warto blogować?
 
 Tworzenie bloga ma wiele zalet takich jak:
 
-* Dzielenie się wiedzą z innymi daje satysfakcję. Może być szczególnie pomocne dla prężnie rozwijających się dziecin takich jak programowanie i inne działy informatyki. Przy okazji można samemu więcej nauczyć się o opisywanych kwestiach.
+* Dzielenie się wiedzą z innymi daje satysfakcję. Może być szczególnie pomocne dla prężnie rozwijających się dziedzin takich jak programowanie i inne działy informatyki. Przy okazji można samemu więcej nauczyć się o opisywanych kwestiach.
 * Potrzeba wyrażenia siebie. Blogowanie może być sposobem na wyrażenie swoich myśli i poglądów na temat różnych aspektów własnej specjalizacji czy również bardziej przyziemnych zagadnień.
 * Chęć rozwoju umiejętności pisania. Pisząc bloga, można ćwiczyć swoje umiejętności pisarskie i rozwijać swoje umiejętności komunikacyjne, co może być przydatne w pracy zawodowej i na co dzień.
 * Kontakt z innymi. Blogowanie może być sposobem na nawiązanie kontaktu z innymi specjalistami z danej branży i dzielenie się pomysłami oraz doświadczeniami.
