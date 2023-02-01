@@ -5,9 +5,16 @@
 
 #  The contact options.
 
-# -
-#   type: github
-#   icon: 'fab fa-github'
+-
+  type: gh
+  icon: 'fab fa-github'
+  url: 'https://github.com/pozdrawiam?tab=repositories'
+
+-
+  type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/dawid-trystu%C5%82a/'                  # Fill with your Linkedin homepage
+
 # -
 #   type: twitter
 #   icon: 'fab fa-twitter'
@@ -25,10 +32,6 @@
 #   type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-# -
-#   type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
 # -
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
