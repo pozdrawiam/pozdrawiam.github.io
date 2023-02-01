@@ -10,7 +10,7 @@ Poniżej niektóre aspekty z różnych dziedzin, które mogą pomóc zwiększyć
 
 ## Warunki w pomieszczeniu
 
-Zalecana temperatura w pomieszczeniu pracy powinna wynosić około 20-22 stopni Celsjusza - ja preferuję tą wyższą wartość gdyż siedzenie przy biurku nie jest aktywną czynnością dla ciała więc możemy szybciej odczuwać chłód.\
+Zalecana temperatura w pomieszczeniu pracy powinna wynosić około 20-22 stopni Celsjusza - ja preferuję tę wyższą wartość, gdyż siedzenie przy biurku nie jest aktywną czynnością dla ciała, więc możemy szybciej odczuwać chłód.\
 Wilgotność powinna mieścić się w przedziale 40-60%.\
 Duże odchyły od tych wartości mogą pogarszać jakoś powietrza, co ułatwia namnażanie bakterii i wirusów czy nawet (w przypadku zbyt wysokiej wilgotności) grzybów i pleśni.
 
@@ -20,7 +20,7 @@ Należy jednak pamiętać, by nie przesadzać z wietrzeniem, gdyż zbyt duża zm
 
 ## Regularne przerwy
 
-Regularne przerwy od biurka i komputera są niezwykle ważne dla naszego zdrowia i wydajności. Pozwalają na odpoczynek dla naszego mózgu i ciała, co przekłada się na lepszą koncentrację i większą efektywność podczas pracy. Zaleca się, żeby co jakiś czas robić przerwy, trwające około kilkanaście minut. Można wówczas wstać, rozprostować się, wykonać kilka prostych ćwiczeń rozciągających lub po prostu odpocząć. Regularne przerwy pozwolą również na zmniejszenie ryzyka wystąpienia problemów zdrowotnych związanych z pracą przy komputerze, takich jak bóle kręgosłupa czy choroby oczu. Pamiętajmy więc, by nie zapominać o przerwach w pracy gdyż są kluczowe dla naszego zdrowia wiec i dla wydajności.
+Regularne przerwy od biurka i komputera są niezwykle ważne dla naszego zdrowia i wydajności. Pozwalają na odpoczynek dla naszego mózgu i ciała, co przekłada się na lepszą koncentrację i większą efektywność podczas pracy. Zaleca się, żeby co jakiś czas robić przerwy, trwające około kilkanaście minut. Można wówczas wstać, rozprostować się, wykonać kilka prostych ćwiczeń rozciągających lub po prostu odpocząć. Regularne przerwy pozwolą również na zmniejszenie ryzyka wystąpienia problemów zdrowotnych związanych z pracą przy komputerze, takich jak bóle kręgosłupa czy choroby oczu. Pamiętajmy więc, by nie zapominać o przerwach w pracy, gdyż są kluczowe dla naszego zdrowia więc i dla wydajności.
 
 Można sobie pomóc techniką Pomodoro - to metoda zarządzania czasem, w której praca jest podzielona na krótkie okresy, zwane "pomodoro", trwające około 25 minut, po których następuje krótka przerwa trwająca około 5 minut. Po 4 takich "pomodoro" przewidziana jest dłuższa przerwa trwająca około 15-30 minut. Celem tej techniki jest zwiększenie skupienia i efektywności pracy poprzez regularne odpoczynki.
 
@@ -40,17 +40,17 @@ Dbając o wzrok podczas pracy przy komputerze, warto zwrócić uwagę na kilka i
 
 Dla oczu pozytywnie wpłyną powyższe porady dotyczące wietrzenia, wilgotności oraz przerw i nawodnienia.
 
-W przypadku dłuższego przebywania przed ekranem, warto robić częste przerwy, w trakcie których można wykonać kilka prostych ćwiczeń rozciągających dla oczy, takich jak np. mruganie, obracanie gałek ocznych czy patrzenie w oddali. W przypadku długotrwałych problemów z oczami lub wystąpienia niepokojących objawów, warto skonsultować się z lekarzem okulistą. 
+W przypadku dłuższego przebywania przed ekranem warto robić częste przerwy, w trakcie których można wykonać kilka prostych ćwiczeń rozciągających dla oczu, takich jak np. mruganie, obracanie gałek ocznych czy patrzenie w oddali. W przypadku długotrwałych problemów z oczami lub wystąpienia niepokojących objawów warto skonsultować się z lekarzem okulistą. 
 
 Dodatkowo można skorzystać z:
 * okularów z odpowiednimi filtrami takimi jak filtr światła niebieskiego - ja takie mam
 * aplikacji przypominającej o przerwach - ja korzystam z archaicznego już [FadeTop](http://www.fadetop.com/){:target="_blank"}
-* wizyt kontrolnych u okulisty - nawet jak nie odczuwamy pogorszenia wzroku (większość osób zanim się nie zbada nie wie, że ma wadę wzroku)
+* wizyt kontrolnych u okulisty - nawet jak nie odczuwamy pogorszenia wzroku (większość osób, zanim się nie zbada, nie wie, że ma wadę wzroku)
 * trybu/aplikacji wyświetlania nocnego - szczególnie o wieczornej porze, dostępny praktycznie w każdym nowoczesnym systemie
 
 Kwestią sporną jest czy używać trybu jasnego czy ciemnego w aplikacjach.\
-W pracy (czyli za dnia) preferuję light mode gdyż jest bardziej naturalny - czarne na białym jak na papierze, lepiej mi się czyta, a z rana rozbudza.\
-Po pracy gdy siadam do komputera wieczorem próbuję zmuszać się do dark mode, co wydaje się być zdrowsze o tej porze dnia. O dark mode można więcej przeczytać w artykule: [Is Dark Mode Good For Your Eyes?](https://kevquirk.com/is-dark-mode-such-a-good-idea/){:target="_blank"}.
+W pracy (czyli za dnia) preferuję light mode, gdyż jest bardziej naturalny - czarne na białym jak na papierze, lepiej mi się czyta, a z rana rozbudza.\
+Po pracy gdy siadam do komputera wieczorem, próbuję zmuszać się do dark mode, co wydaje się być zdrowsze o tej porze dnia. O dark mode można więcej przeczytać w artykule: [Is Dark Mode Good For Your Eyes?](https://kevquirk.com/is-dark-mode-such-a-good-idea/){:target="_blank"}.
 
 Nasze oczy są bardzo ważnym narządem i należy o nie odpowiednio dbać, szczególnie w przypadku długotrwałej pracy przy komputerze, czy nawet czytania książek i dokumentów z niewielkiej odległości.
 
@@ -59,14 +59,14 @@ Nasze oczy są bardzo ważnym narządem i należy o nie odpowiednio dbać, szcze
 Myszy pionowe, zwane również myszkami ergonomicznymi, są specjalnie zaprojektowane, aby pomóc w utrzymaniu prawidłowej pozycji dłoni podczas pracy przy komputerze. Myszy tego typu mają unikalny kształt, który pozwala na trzymanie ich w pozycji pionowej, co zmniejsza nacisk na dłoń i przynosi ulgę w bólu i zmęczeniu mięśni. Dodatkowo, myszy tego typu mogą pomóc w zmniejszeniu ryzyka rozwoju chorób związanych z pracą przy komputerze, takich jak zespół cieśni nadgarstka. 
 
 Warto rozważyć zastosowanie myszy pionowej, jeśli pracujesz przy komputerze przez długi czas lub jeśli masz problemy z dłoniami, albo miałeś jakiś uraz ręki.
-W moim przypadku doznałem znacznej ulgi. Odkąd używam takiej myszki nie odczuwam już bólu nadgarstka, a wcześniej pojawiał się regularnie - zwykle pod koniec tygodnia pracy.
+W moim przypadku doznałem znacznej ulgi. Odkąd używam takiej myszki, nie odczuwam już bólu nadgarstka, a wcześniej pojawiał się regularnie - zwykle pod koniec tygodnia pracy.
 
 ![Mysz pionowa, a tradycyjna](/assets/img/posts/vertical-mouse-bones.jpg){: w="700" }
 _Porównanie ułożenia kości przedramienia dla myszy pionowej i tradycyjnej_
 
-Minusem jest nieco mniejsza precyzja (szczególnie na początku) więc takie myszki nie nadają się np. do dynamicznych gier takich jak w Counter-Strike itp.
+Minusem jest nieco mniejsza precyzja (szczególnie na początku), więc takie myszki nie nadają się np. do dynamicznych gier takich jak w Counter-Strike itp.
 
-## Higiena czyli porządek
+## Higiena, czyli porządek
 
 Zasady ergonomii i porządek w wielu kwestiach przyczyniają się do lepszej wydajności, a także wprowadzają pozytywną atmosferę i pozwalają na lepsze skupienie się na wykonywaniu zadań.
 
@@ -84,20 +84,20 @@ Open space, czyli przestrzeń otwarta, pozwala na łatwiejszą komunikację mię
 Również pracownicy, którzy pracują z wykorzystaniem słuchawek lub z dokumentami wrażliwymi, mogą mieć trudności z zachowaniem prywatności i bezpieczeństwa danych w przestrzeni open space.
 Open space może też prowadzić do większej liczby interakcji między pracownikami, co może być korzystne dla niektórych, ale dla innych może prowadzić do wyczerpania i stresu.
 
-Dlatego, przed wyborem open space jako rozwiązania przestrzennego, warto rozważyć indywidualne potrzeby pracowników i zastanowić się, czy taki styl pracy będzie odpowiedni dla nich oraz dla charakteru pracy jaką wykonują. 
+Dlatego, przed wyborem open space jako rozwiązania przestrzennego, warto rozważyć indywidualne potrzeby pracowników i zastanowić się, czy taki styl pracy będzie odpowiedni dla nich oraz dla charakteru pracy, jaką wykonują. 
 Alternatywą dla open space jest przestrzeń zamknięta, takie jak gabinety, co pozwala na zachowanie prywatności i skupienia.
 
 ## Znaj swoje narzędzia
 
-Aplikacje i systemy, które wykorzystujemy na co dzień warto poznać lepiej, aby efektywniej z nich korzystać. Znacznym przyspieszeniem pracy będzie nauka skrótów klawiszowych - na każdą wielokrotnie wykonywaną czynność przeważnie przewidziany jest jakiś skrót.
+Aplikacje i systemy, które wykorzystujemy na co dzień, warto poznać lepiej, aby efektywniej z nich korzystać. Znacznym przyspieszeniem pracy będzie nauka skrótów klawiszowych - na każdą wielokrotnie wykonywaną czynność przeważnie przewidziany jest jakiś skrót.
 
 ## Komunikacja w zespole
 
 W przypadku komunikacji w zespole najbardziej podstawowe zasady to:
-1. Odpowiedni wybór kanału: może to być np. telefon, sms, chat, email, spotkanie. W zależności od pilności, wielkości i specyfiki tematu należy skorzystać z odpowiedniego środka. Np. w przypadku sprawy, które może poczekać można napisać email, a jeżeli coś wymaga natychmiastowej reakcji to pewnie trzeba wybrać kontakt telefoniczny.
-1. Napisz od razu o co chodzi: w przypadku kontaktu należy zawrzeć temat problemu od razu w pierwszej wiadomości, żeby odbiorca mógł się przygotować np. do spotkania, które chcesz umówić. Więcej tutaj: [NoHello](https://nohello.net/pl/){:target="_blank"}
+1. Odpowiedni wybór kanału: może to być np. telefon, sms, chat, email, spotkanie. W zależności od pilności, wielkości i specyfiki tematu należy skorzystać z odpowiedniego środka. Np. w przypadku sprawy, która może poczekać można napisać email, a jeżeli coś wymaga natychmiastowej reakcji, to pewnie trzeba wybrać kontakt telefoniczny.
+1. Napisz od razu, o co chodzi: w przypadku kontaktu należy zawrzeć temat problemu od razu w pierwszej wiadomości, żeby odbiorca mógł się przygotować np. do spotkania, które chcesz umówić. Więcej tutaj: [NoHello](https://nohello.net/pl/){:target="_blank"}
 1. Dodaj coś od siebie, routing: kiedy przekazujesz temat innej osobie np. w wątku mailowym czy zadaniu w systemie zarządzania projektami napisz swoje wnioski, opisz jak zrozumiałeś problem - nie każ kolejnej osobie badać na nowo i powielać pracy, którą już wykonałeś.\
-Zmieniasz status taska lub przepisujesz do innej osoby? Zostaw notatkę dlaczego. **Nie bądź routerem.**
+Zmieniasz status taska, lub przepisujesz do innej osoby? Zostaw notatkę dlaczego. **Nie bądź routerem.**
 1. Nie odpowiadaj od razu: nie musisz, może poczekać, jeżeli nie to zadzwonią. Lepiej dokończyć obecne zajęcie czy myśl niż rozpraszać uwagę na szybkim odpisywaniu komuś.
 1. Czas niedostępności: wydziel ramy czasowe skupienia w trakcie dnia i zakomunikuj innym, w tym czasie odrzucasz wszelkie prośby o kontakt i możesz spokojnie zająć się pracą bez przerywania.
 
@@ -113,10 +113,10 @@ Przydatnym aspektem jest ustalenie ram czasowych na koncentrację (czyli wspomni
 1. Ustal sobie cele i priorytety: określ, co jest ważne, i skup się na tym.
 1. Dokończ jedno zadanie, a dopiero potem przejdź do następnego.
 1. Duże zadania podziel na mniejsze.
-1. Wyłącz nie potrzebne aplikacje w danej chwili.
+1. Wyłącz niepotrzebne aplikacje w danej chwili.
 1. Sprawdzaj skrzynkę pocztową i inne tylko w ustalonym czasie.
 1. Wyłącz powiadomienia.
-1. Jeżeli możesz to wyłącz nawet internet.
+1. Jeżeli możesz, to wyłącz nawet internet (szczególnie na smartfonie).
 1. Skorzystaj ze wspominanej wcześniej metody Pomodoro (25 minut skupienia, 5 minut przerwy) - szczególne gdy jest Ci ciężko zacząć pracę nad trudnym zadaniem.
 
 Warto sprawdzić możliwości trybów skupienia w telefonie czy innych urządzeniach.
