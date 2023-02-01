@@ -5,7 +5,7 @@ order: 4
 title: O stronie
 ---
 
-Pragmatyczny blog to miejsce, gdzie znajdziesz rzeczowe i merytoryczne treści, które pomogą Ci w rozwiązywaniu codziennych problemów. Znajdziesz tutaj wskazówki dotyczące różnych dziedzin, takich jak programowanie, rozwój osobisty czy zdrowie. Artykuły na tym blogu są pisane w sposób przystępny i zrozumiały dla szerokiego grona odbiorców. Dla mniej i bardziej doświadczonych z branży IT i spoza niej. Czytając wpisy, z pewnością zdobędziesz cenna wiedzę i praktyczne porady, które pomogą Ci w codziennym funkcjonowaniu. Pragmatyczny blog to doskonałe miejsce dla osób szukających konkretnych informacji i rozwiązań.
+Pragmatyczny blog to miejsce, gdzie znajdziesz rzeczowe i merytoryczne treści, które pomogą Ci w rozwiązywaniu codziennych problemów. Znajdziesz tutaj wskazówki dotyczące różnych dziedzin, takich jak programowanie, rozwój osobisty czy zdrowie. Artykuły na tym blogu są pisane w sposób przystępny i zrozumiały dla szerokiego grona odbiorców. Dla mniej i bardziej doświadczonych z branży IT i spoza niej. Czytając wpisy, z pewnością zdobędziesz cenną wiedzę i praktyczne porady, które pomogą Ci w codziennym funkcjonowaniu. Pragmatyczny blog to doskonałe miejsce dla osób szukających konkretnych informacji i rozwiązań.
 
 ### O mnie
 
