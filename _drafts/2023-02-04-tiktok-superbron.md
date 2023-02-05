@@ -1,25 +1,25 @@
 ---
-title: TikTok - nowy rodzaj superbroni
+title: Nowy rodzaj superbroni
 date: 2023-02-04 16:03
 categories: [Ogólne]
 tags: [aplikacje]
 ---
 
-TikTok to jak do tąd najpopularniejsza aplikacja w historii. Wyłoniła się w 2017 roku z chińskiej aplikacji do udostępniania wideo Douyin i w ciągu trzech lat stała się najczęściej pobieraną aplikacją na świecie, prześcigając później Google jako najczęściej odwiedzaną domenę internetową na świecie.
+TikTok to jak do tąd najpopularniejsza aplikacja w historii. Powstała w 2017 roku z chińskiej aplikacji do udostępniania wideo Douyin i w ciągu trzech lat stała się najczęściej pobieraną aplikacją na świecie, prześcigając później Google jako najczęściej odwiedzaną domenę internetową na świecie.
 
-Podbój ludzkiej uwagi ułatwił mu covid i masowe lockdown'y w 2020 roku, ale jego sukces nie był zwykłym szczęściem. Jest coś w projekcie aplikacji, co sprawia, że jest ona niezwykle nieodparta, a przez to i szalenie niebezpieczna.
+Podbój ludzkiej uwagi ułatwił mu covid i masowe lockdown'y w 2020 roku, ale jego sukces nie był zwykłym szczęściem. Jest coś w projekcie aplikacji, co sprawia, że jest ona niezwykle uzależniająca, a przez to i szalenie niebezpieczna.
 
-## Treści w aplikacji
+## Serwowane treści
 
-Inne platformy, takie jak Facebook czy Twitter, wykorzystują algorytmy rekomendacji jako funkcje wzbogacające podstawowy produkt. W TikTok nie musisz polubiać czy udostępniać, aby platforma zaczęła dostosowywać treści do Twoich upodobań, po prostu zaczynasz oglądać, pomijając filmy, które nie od razu wzbudzają Twoje zainteresowanie. Tiktok używa zastrzeżonego algorytmu, zwanego po prostu jako algorytm _For You_, który wykorzystuje sztuczną inteligencję do budowania profilu osobowości poprzez uczenie się na nawykach oglądania. Ponieważ wideo TikTok jest zazwyczaj znacznie krótsze niż wideo z YouTube, algorytm pozyskuje dane szkoleniowe od Ciebie w znacznie szybszym tempie.
+Inne platformy, takie jak Facebook czy Twitter, wykorzystują algorytmy rekomendacji. W TikTok natomiast nie musisz polubiać czy udostępniać, aby platforma zaczęła dostosowywać treści do Twoich upodobań, po prostu zaczynasz oglądać, pomijając filmy, które nie od razu wzbudzają Twoje zainteresowanie. Używa algorytmu _For You_, który wykorzystuje sztuczną inteligencję do budowania profilu osobowości poprzez uczenie się na nawykach oglądania. Wideo w TikTok jest zazwyczaj znacznie krótsze niż np. w YouTube, przez co algorytm uczy w znacznie szybszym tempie.
 
-W rezultacie szybko Cię rozgryza, a kiedy już to się stanie, może pokazać Ci to, czego potrzebuje, aby Cię uzależnić.
+W rezultacie szybko Cię rozgryza, a kiedy już to się stanie, **może pokazać Ci to, czego potrzebuje, aby Cię uzależnić**.
 
-Ponieważ algorytm faworyzuje tylko najbardziej natychmiastowo hipnotyzujące treści, konstruktywne filmy - takie jak poradniki "jak to zrobić" i dziennikarstwo terenowe - zwykle są spychane na margines na rzecz ciekawych, ale złośliwych informacji śmieciowych.
+Ponieważ algorytm faworyzuje tylko najbardziej natychmiastowo hipnotyzujące treści, konstruktywne filmy - takie jak poradniki "jak to zrobić" i dziennikarstwo terenowe - zwykle są spychane na margines na rzecz ciekawych lub śmiesznych, ale równocześnie złośliwych i śmieciowych.
 
-Indywidualnie, takie filmy są nieszkodliwe, ale algorytm nie zamierza pokazać Ci tylko jednego. Kiedy otrzymuje sygnał, że zdobył Twoją uwagę, podwaja to, co zrobił. Dzięki temu może karmić Twoje obsesje, pokazując Ci hipnotyczne treści raz za razem, wzmacniając ich odcisk w Twoim mózgu. Treści te mogą obejmować promocję szkodoliwych zachowań np. złego odrzywiania. Oglądanie takich treści może negatywnie wpływać na psychikę.
+Indywidualnie, takie filmy są nieszkodliwe, ale algorytm nie zamierza pokazać Ci tylko jednego. Kiedy otrzymuje sygnał, że zdobył Twoją uwagę, podwaja to, co zrobił. Dzięki temu może karmić Twoje obsesje, pokazując Ci hipnotyczne treści raz za razem, wzmacniając ich odcisk w Twoim mózgu. Treści te mogą obejmować promocję szkodoliwych zachowań np. złego odżywiania. Oglądanie takich treści może negatywnie wpływać na psychikę.
 
-Bardziej powszechnym sposobem, w jaki TikTok promuje irracjonalne zachowania, są wirusowe trendy i "wyzwania", w których ludzie angażują się w określony akt idiotyzmu w nadziei, że uczyni ich to sławnymi. Czynności są kuriozalne np. lizanie toalety, czasem namawiają do popełniania wykroczeń. Zdarzały się przypadki, że podjęcie takich zachowań przez dzieci kończyło się zgonami.
+Bardziej powszechnym sposobem, w jaki TikTok promuje irracjonalne zachowania, są wirusowe trendy i "wyzwania", w których ludzie angażują się w określony akt idiotyzmu w nadziei, że uczyni ich to sławnymi. Czynności są kuriozalne np. lizanie toalety, czasem namawiają też do popełniania wykroczeń. Zdarzały się przypadki, że podjęcie takich zachowań przez młode osoby kończyło się zgonami.
 
 ## Uzależnienie
 
