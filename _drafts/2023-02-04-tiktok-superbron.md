@@ -5,7 +5,7 @@ categories: [Ogólne]
 tags: [aplikacje]
 ---
 
-TikTok to jak do tąd najpopularniejsza aplikacja w historii. Powstała w 2017 roku z chińskiej aplikacji do udostępniania wideo Douyin i w ciągu 3 lat stała się najczęściej pobieraną aplikacją na świecie, prześcigając później Google jako najczęściej odwiedzaną domenę internetową na świecie.
+TikTok to jak dotąd najpopularniejsza aplikacja w historii. Powstała w 2017 roku z chińskiej aplikacji do udostępniania wideo Douyin i w ciągu 3 lat stała się najczęściej pobieraną aplikacją na świecie, prześcigając później Google jako najczęściej odwiedzaną domenę internetową na świecie.
 
 Podbój ludzkiej uwagi ułatwił mu covid i masowe lockdown'y w 2020 roku, ale jego sukces nie był zwykłym szczęściem. Jest coś w projekcie aplikacji, co sprawia, że jest niezwykle uzależniająca, a przez to i szalenie niebezpieczna.
 
@@ -17,7 +17,7 @@ W rezultacie szybko Cię rozgryza, a kiedy już to się stanie, **może pokazać
 
 Algorytm faworyzuje głównie hipnotyzujące treści, a konstruktywne filmy zwykle spychane są na margines na rzecz tych pozornie ciekawych lub śmiesznych, ale równocześnie złośliwych i śmieciowych.
 
-Indywidualnie, takie filmy nie są szkodliwe, ale algorytm nie zamierza pokazać Ci tylko jednego. Kiedy otrzymuje sygnał, że zdobył Twoją uwagę, robi to z większą mocą. Dzięki temu może karmić Twoje obsesje, pokazując Ci hipnotyczne treści raz za razem, wzmacniając ich odcisk w Twoim mózgu. Filmiki te mogą obejmować promocję szkodoliwych zachowań np. złego odżywiania. Oglądanie takich treści może negatywnie wpływać na psychikę.
+Indywidualnie, takie filmy nie są szkodliwe, ale algorytm nie zamierza pokazać Ci tylko jednego. Kiedy otrzymuje sygnał, że zdobył Twoją uwagę, robi to z większą mocą. Dzięki temu może karmić Twoje obsesje, pokazując Ci hipnotyczne treści raz za razem, wzmacniając ich odcisk w Twoim mózgu. Filmiki te mogą obejmować promocję szkodliwych zachowań np. złego odżywiania. Oglądanie takich treści może negatywnie wpływać na psychikę.
 
 Bardziej powszechnym sposobem, w jaki TikTok promuje irracjonalne zachowania, są wirusowe trendy i "wyzwania", w których ludzie angażują się w określony akt idiotyzmu w nadziei, że uczyni ich to sławnymi. Czynności są kuriozalne np. lizanie toalety, czasem namawiają też do popełniania wykroczeń. Zdarzały się przypadki, że podjęcie takich zachowań przez młode osoby kończyło się tragicznie.
 
@@ -25,7 +25,7 @@ Bardziej powszechnym sposobem, w jaki TikTok promuje irracjonalne zachowania, s�
 
 Tak jak kłopotliwe są trendy TikTok, największe niebezpieczeństwo aplikacji nie leży w żadnych konkretnych treściach, ale w jej ogólnej uzależniającej naturze.
 
-Istnieje silny związek między uzależnieniem od smartfonów, a kurczeniem się istoty szarej mózgu i "cyfrową demencją" - zbiorczym terminem oznaczającym pojawienie się lęku i depresji oraz pogorszenie pamięci, koncentracji uwagi, poczucia własnej wartości i kontroli impulsów.
+Istnieje silny związek między uzależnieniem od smartfonów a kurczeniem się istoty szarej mózgu i "cyfrową demencją" - zbiorczym terminem oznaczającym pojawienie się lęku i depresji oraz pogorszenie pamięci, koncentracji uwagi, poczucia własnej wartości i kontroli impulsów.
 
 Aby rozwijać i utrzymywać zdolności umysłowe, takie jak pamięć i rozpiętość uwagi, trzeba ćwiczyć ich używanie. TikTok, bardziej niż jakakolwiek inna aplikacja, jest zaprojektowany tak, aby dać ci to, czego chcesz, jednocześnie wymagając od ciebie jak najmniej. Nie obchodzi go, kogo śledzisz lub jakie przyciski klikasz. Głównym celem jest jak najdłuższe oglądanie. Klipy są tak krótkie, że wymagają minimalnej pamięci i koncentracji uwagi, co sprawia, że ich przeglądanie jest najbardziej pasywnym, nieinteraktywnym doświadczeniem ze wszystkich głównych platform.
 
@@ -33,7 +33,7 @@ Jeśli już teraz pasywny charakter konsumpcji treści online powoduje utratę z
 
 ## Broń psychologiczna
 
-Zdolność TikTok do ogłupiania ludzi, zarówno ostro poprzez zachęcanie do idiotycznych zachowań, jak i chronicznie poprzez degenerację mózgu, powinna skłonić do rozważenia jej potencjalnego wykorzystania jako nowego rodzaju broni, takiej która dąży do neutralizacji wrogów nie poprzez zadawanie bólu i terroru, ale poprzez zadawanie przyjemności.
+Zdolność TikTok do ogłupiania ludzi, zarówno ostro poprzez zachęcanie do idiotycznych zachowań, jak i chronicznie poprzez degenerację mózgu, powinna skłonić do rozważenia jej potencjalnego wykorzystania jako nowego rodzaju broni, takiej, która dąży do neutralizacji wrogów nie poprzez zadawanie bólu i terroru, ale poprzez zadawanie przyjemności.
 
 Dyrektor FBI ostrzegł, że TikTok jest kontrolowany przez chiński rząd, który może "wykorzystać go do operacji wpływu".
 
@@ -43,7 +43,7 @@ Wygląda zatem, że w tym przypadku partia jawnie chroni swój naród.
 
 ## Cel
 
-"To nie ludzie opanowują technologię, ale technologia opanowuje ludzi."
+> To nie ludzie opanowują technologię, ale technologia opanowuje ludzi.
 
 W ciągu ostatniego stulecia rynek kierował nas w stronę coraz krótszych form rozrywki, od kina we wczesnych latach 1900, przez telewizję w połowie wieku, po minutowe filmy na YouTube, aż po sekundowe klipy na TikTok. W tym ostatnim opóźnienie między pragnieniem a gratyfikacją jest niemal natychmiastowe - nie ma już cierpliwości ani wysiłku potrzebnego do uzyskania nagrody, więc nasze zdolności umysłowe popadają w niebyt i ruinę.
 
@@ -51,7 +51,7 @@ I właśnie dlatego TikTok mógłby okazać się tak niszczącą bronią geopoli
 
 Wydaje się, że jesteśmy już w połowie drogi: nie tylko nastąpiło skurczenie się istoty szarej u osób uzależnionych od smartfonów, ale od 1970 roku średnia IQ na Zachodzie stale spada. Choć spadek ten ma prawdopodobnie kilka przyczyn, rozpoczął się wraz z pierwszym pokoleniem, które dorastało z powszechnymi telewizorami w domach, a zdrowy rozsądek podpowiada, że jest on przynajmniej częściowo wynikiem technologii sprawiającej, że osiąganie satysfakcji staje się coraz bardziej bezwysiłkowe, przez co spędzamy coraz więcej czasu w pasywnym, wegetatywnym stanie. Jeśli nie używasz, to tracisz.
 
-Nawet ci, którzy nadal chcą używać swoich mózgów, są narażeni na ryzyko zniweczenia swoich wysiłków przez media społecznościowe, które wydają się wpływać nie tylko na zdolności dzieci, ale także na ich aspiracje: chińskie dzieci chcą być atronautami, a amerykańskie influencerami. Jeśli nadal będziemy podążać obecnym kursem, wynikająca z tego utrata siły roboczej w kluczowych dziedzinach może po latach zacząć nam szkodzić pod względem gospodarczym.
+Nawet ci, którzy nadal chcą używać swoich mózgów, są narażeni na ryzyko zniweczenia swoich wysiłków przez media społecznościowe, które wydają się wpływać nie tylko na zdolności dzieci, ale także na ich aspiracje: chińskie dzieci chcą być astronautami, a amerykańskie influencerami. Jeśli nadal będziemy podążać obecnym kursem, wynikająca z tego utrata siły roboczej w kluczowych dziedzinach może po latach zacząć nam szkodzić pod względem gospodarczym.
 
 TikTok, bez względu na to, czy jest przemyślany jako broń, czy nie, posuwa nas dalej w kierunku do bezwysiłkowej przyjemności i wynikającego z niej spadku poznawczego. Zdominował naszą kulturę w wyniku działania sił wolnego rynku, czyli tego, dzięki czemu żyjemy - zatem poniekąd jesteśmy sami sobie winni.
 
