@@ -226,7 +226,7 @@ W programie zastosowane zostały:
 * Program zwraca komunikaty o błędach w przypadku nieprawidłowego podania informacji przez użytkownika, np. nieprawidłowy numer zadania.
 
 
-## Podsumowując
+## Podsumowanie
 
 Rust pozwala na tworzenie szybkich aplikacji wraz z efektywnym użyciem pamięci (za sprawą nowatorskich mechanizmów na poziomie kompilacji). Pozwala stworzyć dowolne rozwiązanie.
 Dzięki tym zaletom zyskuje na popularności wśród doświadczonych programistów oraz wzbudza zainteresowanie największych firm.
