@@ -40,7 +40,7 @@ Dbając o wzrok podczas pracy przy komputerze, warto zwrócić uwagę na kilka i
 
 Dla oczu pozytywnie wpłyną powyższe porady dotyczące wietrzenia, wilgotności oraz przerw i nawodnienia.
 
-W przypadku dłuższego przebywania przed ekranem warto robić częste przerwy, w trakcie których można wykonać kilka prostych ćwiczeń rozciągających dla oczu, takich jak np. mruganie, obracanie gałek ocznych czy patrzenie w oddali. W przypadku długotrwałych problemów z oczami lub wystąpienia niepokojących objawów warto skonsultować się z lekarzem okulistą. 
+W przypadku dłuższego przebywania przed ekranem warto robić częste przerwy, w trakcie których można wykonać kilka prostych ćwiczeń rozciągających dla oczu, takich jak np. mruganie, obracanie gałek ocznych czy patrzenie w dal (najlepiej przez okno). W przypadku długotrwałych problemów z oczami lub wystąpienia niepokojących objawów warto skonsultować się z lekarzem okulistą. 
 
 Dodatkowo można skorzystać z:
 * okularów z odpowiednimi filtrami takimi jak filtr światła niebieskiego - ja takie mam
@@ -85,7 +85,7 @@ Również pracownicy, którzy pracują z wykorzystaniem słuchawek lub z dokumen
 Open space może też prowadzić do większej liczby interakcji między pracownikami, co może być korzystne dla niektórych, ale dla innych może prowadzić do wyczerpania i stresu.
 
 Dlatego, przed wyborem open space jako rozwiązania przestrzennego, warto rozważyć indywidualne potrzeby pracowników i zastanowić się, czy taki styl pracy będzie odpowiedni dla nich oraz dla charakteru pracy, jaką wykonują. 
-Alternatywą dla open space jest przestrzeń zamknięta, takie jak gabinety, co pozwala na zachowanie prywatności i skupienia.
+Alternatywą dla open space jest przestrzeń zamknięta, taka jak gabinety, co pozwala na zachowanie prywatności i skupienia.
 
 ## Znaj swoje narzędzia
 
