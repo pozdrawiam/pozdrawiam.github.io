@@ -1,7 +1,7 @@
 ---
 title: Nowy rodzaj superbroni
 date: 2023-02-04 16:03
-categories: [Ogólne]
+categories: [Ogólne, Warto wiedzieć]
 tags: [aplikacje]
 ---
 
