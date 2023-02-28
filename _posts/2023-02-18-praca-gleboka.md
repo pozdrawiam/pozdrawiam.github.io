@@ -67,7 +67,7 @@ Doskonalenie jej ułatwia przejście w stan zanurzenia nad danym zadaniem szybci
 
 Należy rozważyć wdrożenie kilku zasad:
 
-* Zadbaj o odpowiednie miejsce, gdzie nikt nie będzie Ci przeszkadzał: może to być ulubione miejsce w domu lub biblioteka.
+* Zadbaj o odpowiednie miejsce, gdzie nikt nie będzie Ci przeszkadzał: może to być ulubione miejsce w domu lub np. biblioteka.
 * Rezygnacja z mediów społecznościowych: portale takie jak Facebook rujnują nasze próby koncentracji. Nie dość, że atakują masą powiadomień, to przyzwyczaiły nasz mózg do małych wystrzałów dopaminy, dlatego często postrzegamy je jako możliwa opcja B i chętnie po nie sięgamy gdy musimy zrobić coś trudnego.
 * Wyłącz rozpraszacze: wyłącz powiadomienia, a nawet internet gdy go nie potrzebujesz. Korzystaj tylko z aktualnie potrzebnych aplikacji. Stań się trudno dostępny.
 * Nie broń się przed nudą: pozwól sobie na nią. Np. nie sięgaj po smartfona gdy stoisz w kolejce. Zamiast tego możesz rozmyślać o wartościowych zagadnieniach, które poruszysz podczas sesji skupienia. Historia zna wiele przypadków genialnych odkryć i pomysłów, które powstały w przysłowiowej toalecie, czy podczas zwykłego spaceru.
@@ -77,7 +77,7 @@ Należy rozważyć wdrożenie kilku zasad:
 
 ## Podsumowanie
 
-Praca głęboka pozwala nam na osiągnięcie stanu tzw. "flow", czyli stanu pełnej koncentracji i zaangażowania w wykonywaną czynność. Dzięki temu czas płynie szybciej, a my odczuwamy mniejszy stres i większą satysfakcję z pracy. Ponadto regularne jej wykonywanie może poprawić nasze zdrowie psychiczne, zmniejszyć poziom stresu. Pomaga w lepszym zarządzaniu czasem. Dzięki temu, że pracujemy w sposób bardziej produktywny.
+Praca głęboka pozwala nam na osiągnięcie stanu tzw. "flow", czyli stanu pełnej koncentracji i zaangażowania w wykonywaną czynność. Dzięki temu czas płynie szybciej, a my odczuwamy mniejszy stres i większą satysfakcję z pracy. Ponadto regularne jej wykonywanie może poprawić nasze zdrowie psychiczne oraz zmniejszyć poziom stresu. Pomaga w lepszym zarządzaniu czasem dzięki temu, że pracujemy w sposób bardziej produktywny.
 
 Pozwala na rozwój naszych umiejętności i pasji, co może wpłynąć na poprawę naszej samooceny i zwiększenie poczucia spełnienia. Dzięki temu czujemy się bardziej pewni siebie i zmotywowani do podejmowania nowych wyzwań.
 Może przyczynić się do osiągnięcia sukcesu zawodowego i finansowego. Sprawia, że pracujemy w sposób bardziej skuteczny i jesteśmy w stanie osiągać lepsze wyniki.
