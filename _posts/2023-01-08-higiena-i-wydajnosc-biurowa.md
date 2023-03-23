@@ -24,7 +24,7 @@ Regularne przerwy od biurka i komputera są niezwykle ważne dla naszego zdrowia
 
 Można sobie pomóc techniką Pomodoro - to metoda zarządzania czasem, w której praca jest podzielona na krótkie okresy, zwane "pomodoro", trwające około 25 minut, po których następuje krótka przerwa trwająca około 5 minut. Po 4 takich "pomodoro" przewidziana jest dłuższa przerwa trwająca około 15-30 minut. Celem tej techniki jest zwiększenie skupienia i efektywności pracy poprzez regularne odpoczynki.
 
-W Polsce przepisy kodeksu pracy przewidują, że pracownik ma prawo do jednej przerwy w pracy trwającej co najmniej 30 minut w ciągu dnia pracy trwającej co najmniej 6 godzin. W przypadku pracy w godzinach nadliczbowych pracownik ma prawo do dodatkowej przerwy trwającej co najmniej 15 minut. Oprócz tego przepisy przewidują również przerwę na posiłek dla pracowników pracujących dłużej niż 6 godzin w ciągu dnia. 
+W Polsce w przypadku pracy przy komputerze przepisy przewidują, że pracownik ma prawo do jednej przerwy trwającej co najmniej 15 minut w ciągu dnia pracy trwającej co najmniej 6 godzin oraz 5-minutową przerwę po każdej godzinie korzystania z monitora ekranowego. W przypadku pracy w godzinach nadliczbowych pracownik ma prawo do dodatkowej przerwy trwającej co najmniej 15 minut. Oprócz tego przepisy przewidują również przerwę na posiłek dla pracowników pracujących dłużej niż 6 godzin w ciągu dnia. 
 
 ## Nawodnienie
 
@@ -106,6 +106,8 @@ Zmieniasz status taska, lub przepisujesz do innej osoby? Zostaw notatkę dlaczeg
 Nie bez powodu godziny biurowe czy szkolne to zakres 8:00 - 16:00. Wtedy mamy najwięcej energii w ciągi dnia i pracodawcy czy wykładowcy o tym wiedzą.
 Warto trzymać się tych ram jeżeli zależy nam na efektywności, samopoczuciu i dobrym czasie reakcji.
 
+Sama długość czasu pracy nie powinna przekraczać 8 godzin, aby zachować tzw. work-life balance. Dłuższa praca może prowadzić do zmęczenia, znużenia, stresu i wypalenia zawodowego, co ostatecznie wpłynie negatywnie na wydajność. Badania wykazują, że pracownicy, którzy pracują więcej niż 40 godzin tygodniowo, mają większe ryzyko chorób serca, depresji i innych chorób związanych ze stresem.
+
 Przydatnym aspektem jest ustalenie ram czasowych na koncentrację (czyli wspomniany czas niedostępności) i rzeczy płytkie takie jak odpisywanie na maile. Dzięki będziemy mogli skupić się na rzeczach trudnych oraz zdążymy załatwić codzienne proste sprawy.
 
 ## Eliminuj rozpraszacze
@@ -128,6 +130,30 @@ U mnie są to:
 
 Pozwala to na kontrolę powiadomień z aplikacji oraz od wybranych osób.
 
+## Prozdrowotne gadżety do biura
+
+Prócz myszy pionowej istnieje jeszcze kilka gadżetów, dzięki którym lepiej zadbamy o nasze zdrowie i samopoczucie podczas pracy biurowej.
+Mimo że posiadają wiele zalet, to większość z nich zajmuje sporo miejsca, więc nie każdy może sobie na nie pozwolić.
+
+#### Biurko do pracy stojącej
+
+Pozwala na zmianę pozycji ciała i pracę w pozycji stojącej, co może pomóc zmniejszyć ryzyko bólu pleców i innych dolegliwości związanych z siedzącym trybem życia. 
+Podczas korzystania należy unikać stania na jednej nodze. Ważne, aby monitor i klawiatura nadal były na odpowiednich wysokościach.
+Dostępne są produkty z regulacją wysokości, zatem w zależności od potrzeb można pracować na stojąco i na siedząco. 
+
+#### Bieżnia pod biurko
+
+Jest uzupełnieniem biurka do pracy stojącej. Umożliwia użytkownikowi chodzenie podczas pracy, co pozwala na zachowanie aktywności fizycznej zamiast długotrwałego siedzenia bądź stania przy biurku. Wymaga przyzwyczajenia oraz może utrudniać prace wymagające dłuższego skupienia.
+Może pomóc w zmniejszeniu ryzyka bólu pleców i kręgosłupa, a także pobudzeniu krążenia krwi i przemiany materii.
+
+#### Rowerek pod biurko
+
+Umożliwia pedałowanie podczas pracy. Może pomóc w utrzymaniu kondycji fizycznej, zwiększeniu poziomu energii i koncentracji, a także zmniejszeniu ryzyka chorób związanych z brakiem aktywności fizycznej. Powinien zmieścić się pod większością biurek bez półki na klawiaturę.
+
+#### Poduszka sensoryczna
+
+Poduszka sensoryczna do siedzenia dynamicznego wymusza dodatkowe mikro ruchy podczas długich godzin siedzenia przed biurkiem. Posiada wbudowane wypustki, które umożliwiają ruchy dynamiczne podczas siedzenia, co pozwala na pobudzenie mięśni brzucha, pleców i nóg. 
+Można na niej siedzieć lub podeprzeć odcinek lędźwiowy kręgosłupa.
 
 ## Podsumowanie
 
