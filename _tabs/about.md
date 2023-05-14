@@ -24,9 +24,3 @@ Wszystko, co znajduje się na tej stronie, jest tworzone na licencji Creative Co
 * Możesz również przystosowywać, remiksować, przekształcać i opierać się na materiałach do dowolnego celu, nawet komercyjnego.
 * Jeśli remiksujesz, przekształcasz lub opierasz się na materiałach, musisz dystrybuować swoje prace na tej samej licencji, co oryginał.
 * Nie możesz stosować warunków prawnych lub środków technologicznych, które legalnie ograniczają innych od robienia tego, co pozwala licencja.
-
-### Polityka prywatności
-
-Strona wykorzystuje pliki cookies za pośrednictwem Google Analitics. 
-Narzędzie służy do tworzenia statystyk ruchu na stronie np. ile osób przeczytało dany wpis.\
-Ciasteczka tego mechanizmu można zablokować poprzez odpowiednie ustawienia przeglądarki.
