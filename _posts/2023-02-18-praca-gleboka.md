@@ -2,7 +2,7 @@
 title: Rosnąca wartość pracy głębokiej
 date: 2023-02-18 20:31
 categories: [Rozwój, Produktywność]
-tags: [praca, nauka, wydajność, nawyki, książki]
+tags: [praca, nauka, wydajność, nawyk, książka]
 ---
 
 W dobie narastającej liczby rozproszonych informacji i łatwego dostępu do rozrywek skupienie się na jednym zadaniu wydaje się trudniejsze niż kiedykolwiek wcześniej. Jak więc efektywnie pracować w warunkach ciągłego rozproszenia uwagi? Odpowiedzi na to pytanie szuka Cal Newport, autor książki "Praca głęboka", która stała się bestsellerem na całym świecie. Autor przekonuje, że jedyną drogą do osiągnięcia sukcesu jest skupienie się na głębokiej pracy, czyli na zadaniach wymagających skupienia i poświęcenia większej ilości czasu, ale przynoszących znacznie większe efekty niż liczne krótkie przerwy i powierzchowne zajęcia. W poniższym artykule przyjrzymy się bliżej koncepcji pracy głębokiej i dowiemy się, jakie korzyści może przynieść wprowadzenie jej w życie.

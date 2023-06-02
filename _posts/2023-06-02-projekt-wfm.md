@@ -2,7 +2,7 @@
 title: Projekt webowej przeglądarki plików
 date: 2023-06-02 20:59
 categories: [Portfolio]
-tags: [aplikacje, asp.net, c#, .net]
+tags: [aplikacja, asp.net, c#, .net]
 ---
 
 WebFileManager: aplikacja do zdalnego przeglądania i zarządzania plikami na serwerze z poziomu przeglądarki www. Projekt w użyciu produkcyjnym (Debian + nginx).

@@ -2,7 +2,7 @@
 title: Najbardziej lubiany język programowania
 date: 2023-01-06 19:01
 categories: [Technologie, Programowanie]
-tags: [trendy, rust]
+tags: [trend, rust]
 ---
 
 Rust to język programowania o wysokim poziomie abstrakcji, który został stworzony przez firmę Mozilla w 2010 roku, a stabilna wersja 1.0 została wydana w 2015 roku.

@@ -2,7 +2,7 @@
 title: Nowy rodzaj superbroni
 date: 2023-02-04 16:03
 categories: [Ogólne, Warto wiedzieć]
-tags: [aplikacje]
+tags: [aplikacja]
 ---
 
 TikTok to jak dotąd najpopularniejsza aplikacja w historii. Powstała w 2017 roku z chińskiej aplikacji do udostępniania wideo Douyin i w ciągu 3 lat stała się najczęściej pobieraną aplikacją na świecie, prześcigając później Google jako najczęściej odwiedzaną domenę internetową na świecie.
