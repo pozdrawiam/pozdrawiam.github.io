@@ -33,6 +33,7 @@ Minimalistyczny zestaw narzędzi:
 - lista: sortowanie, filtrowanie, stronicowanie
 - upload, usuwanie, zmiana nazwy, przenoszenie
 - tworzenie katalogów
+- opcjonalny widok kafelków zamiast tabeli
 - tryb tylko do odczytu (ustawienie dla lokalizacji)
 - udostępnianie
 
