@@ -35,4 +35,4 @@ Minimalistyczny zestaw narzędzi:
 
 ## Kod źródłowy
 
-GitHub: [https://github.com/pozdrawiam/WebFileManager](https://github.com/pozdrawiam/WebFileManager)
+GitHub: [https://github.com/pozdrawiam/WebFileManager](https://github.com/pozdrawiam/WebFileManager){:target="_blank"}
