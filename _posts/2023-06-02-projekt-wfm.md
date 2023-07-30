@@ -7,7 +7,7 @@ tags: [aplikacja, asp.net, c#, .net]
 
 WebFileManager: aplikacja do zdalnego przeglądania i zarządzania plikami na serwerze z poziomu przeglądarki www. Projekt w użyciu produkcyjnym (Debian + nginx).
 
-![Wfm - lista plików](/assets/img/posts/wfm-screenshot.png){: w="600" }
+![Wfm - lista plików](/assets/img/posts/wfm-screenshot-2.png){: w="600" }
 _Wfm - lista plików_
 
 ## Funkcje główne
@@ -17,6 +17,7 @@ _Wfm - lista plików_
 - miniaturki obrazków
 - możliwość skonfigurowania wielu lokalizacji
 - tryb jasny i ciemny
+- sortowanie i stronicowanie listy
 
 ## Użyte technologie
 
@@ -30,7 +31,7 @@ Minimalistyczny zestaw narzędzi:
 ## Możliwości rozwoju
 
 - uwierzytelnianie (teraz należy użyć np. HTTP Basic Authentication serwera www)
-- lista: sortowanie, filtrowanie, stronicowanie
+- filtrowanie listy
 - upload, usuwanie, zmiana nazwy, przenoszenie
 - tworzenie katalogów
 - opcjonalny widok kafelków zamiast tabeli
