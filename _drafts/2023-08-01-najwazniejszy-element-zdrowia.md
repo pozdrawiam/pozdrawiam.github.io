@@ -13,12 +13,9 @@ Dlaczego sen jest tak ważny? Jaki wpływ ma na nasze zdrowie i dobre samopoczuc
 Sen jest kluczowym elementem dla utrzymania dobrego zdrowia i funkcjonowania organizmu. Oto kilka powodów, dla których ludzie muszą spać:
 
 1. **Regeneracja organizmu:** Sen jest czasem, kiedy nasze ciało prowadzi wiele kluczowych procesów regeneracyjnych. Podczas snu, nasze komórki i tkanki są odbudowywane i naprawiane, co jest szczególnie ważne dla zdrowia serca i układu krążenia.
-2. **Utrzymanie układu odpornościowego:** Sen pomaga regulować układ odpornościowy, co jest kluczowe dla obrony przed infekcjami i chorobami. Badania wykazały, że ludzie, którzy mają chroniczny brak snu, są bardziej narażeni na różne choroby, w tym przeziębienia i grypę.
-3. **Poprawa funkcji poznawczych:** Podczas snu, nasz mózg przetwarza i przechowuje informacje, które otrzymaliśmy w ciągu dnia. Jest to kluczowy element procesów uczenia się i pamięci. Bez odpowiedniej ilości snu, nasze zdolności do skupienia się, uczenia się i podejmowania decyzji mogą być znacząco zmniejszone.
-4. **Zdrowie psychiczne:** Sen ma kluczowe znaczenie dla naszego zdrowia psychicznego. Chroni przed zaburzeniami nastroju, depresją i lękiem. Badania wykazują, że ludzie z chronicznym niedoborem snu są bardziej narażeni na zaburzenia psychiczne.
-5. **Regulacja metabolizmu:** Sen wpływa również na regulację metabolizmu i utrzymanie zdrowej wagi. Badania wykazały, że krótki sen jest związany z zwiększonym ryzykiem otyłości i cukrzycy.
-
-Pomimo licznych badań na temat snu, jego dokładne role i mechanizmy wciąż są przedmiotem intensywnych badań naukowych. Co jasne, sen jest kluczowym elementem naszego zdrowia i dobrego samopoczucia, a jego brak może mieć szereg negatywnych skutków dla zdrowia.
+1. **Utrzymanie układu odpornościowego:** Sen pomaga regulować układ odpornościowy, co jest kluczowe dla obrony przed infekcjami i chorobami. Badania wykazały, że ludzie, którzy mają chroniczny brak snu, są bardziej narażeni na różne choroby, w tym przeziębienia i grypę.
+1. **Poprawa funkcji poznawczych:** Podczas snu, nasz mózg przetwarza i przechowuje informacje, które otrzymaliśmy w ciągu dnia. Jest to kluczowy element procesów uczenia się i pamięci. Bez odpowiedniej ilości snu, nasze zdolności do skupienia się, uczenia się i podejmowania decyzji mogą być znacząco zmniejszone.
+1. **Regulacja metabolizmu:** Sen wpływa również na regulację metabolizmu i utrzymanie zdrowej wagi. Badania wykazały, że krótki sen jest związany z zwiększonym ryzykiem otyłości i cukrzycy.
 
 ## Cykl dobowy
 
@@ -62,6 +59,8 @@ Zaburzenia snu i przewlekłe niedosypianie mogą prowadzić do szeregu poważnyc
 1. **Zaburzenia hormonalne:** Niedosypianie może zaburzyć równowagę hormonalną w organizmie, prowadząc do problemów z płodnością, zaburzeń miesiączkowania i niskiego libido.
 1. **Choroby neurodegeneracyjne:** Przewlekłe zaburzenia snu mogą zwiększyć ryzyko rozwoju chorób neurodegeneracyjnych, takich jak choroba Parkinsona i choroba Alzheimera oraz znacznie zwiększyć ryzyko demencji na starość.
 1. **Rak:** Niedosypianie może wpływać na regulację procesów komórkowych i sprzyjać stanom zapalnym, co może zwiększyć ryzyko niektórych typów nowotworów.
+
+W związku z negatywnymi skutkami dla organizmu oraz ogólnym zwiększonym ryzykiem groźnych chorób bagatelizowanie zdrowego snu może znacznie skrócić długość życia.
 
 ## Minimalna ilość snu
 
