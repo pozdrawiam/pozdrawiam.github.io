@@ -85,9 +85,10 @@ Higiena snu to zestaw nawyków i praktyk, które mogą poprawić jakość i ilo�
 * **Unikanie alkoholu** przed snem: mimo, że ułatwia zasypianie, to jednak powoduje że sen jest płytki i znacznie mniej regenerujący.
 * **Aktywność fizyczna**: podczas dnia pozytywnie wpłynie na sen, ale krótko przed skutek może być odwrotny.
 * **Brak drzemek**: unikanie drzemki podczas dnia, ale jeżeli trzeba, to nie powinna przekraczać 30 minut.
-* **Kolacja** i napoje inne niż woda czy herbata, na kilka godzin przed snem zewzględu na ich trawienie. Np. kolacja napóźniej o 18:00.
-* **Brak światła niebieskiego** godzinę przed snem: światło z telewizora, komputera czy telefonu kasuje hormon snu, bez którego nie da się zasnąć.
+* **Kolacja** i napoje inne niż woda czy herbata, na kilka godzin przed snem zewzględu na ich trawienie. Np. kolacja napóźniej o 18:30. Unikaj cukru.
+* **Brak światła niebieskiego** godzinę przed snem: światło z telewizora, komputera czy smartfonu kasuje hormon snu, bez którego nie da się zasnąć. Najlepiej nie wnoś telefonu do sypialni.
 * **Brak emocjonalnego pobudzenia** bezpośednio przed snem: skrajne emocje takie jak euforia czy smutek mogą utrudniać zasypianie.
+* **Brak pracy w sytemie zmianowym**: praca na zmiany, a szczgólnie tzw. nocki rozlegowują cykl dobowy.
 
 Zastosowanie tych wytycznych pomoże znacznie poprawić jakość i ilość Twojego snu, co z kolei przyczyni się do poprawy Twojego zdrowia i samopoczucia.
 
@@ -102,3 +103,9 @@ Zasada 10-3-2-1-0 to łatwe do zapamiętania wytyczne postępowania w ciągu dni
 * **0** - Oznacza zero drzemek budzika po przebudzeniu, gdyż każde wybudzenie zwiększa poziom kortyzolu, hormonu stresu.
 
 Podążanie za tą zasadą może pomóc nam utrzymać zdrowe nawyki związane ze snem i poprawić ogólną jakość naszego snu.
+
+## Akcesoria dla lepszego snu
+todo
+
+## Podsumowanie
+todo
