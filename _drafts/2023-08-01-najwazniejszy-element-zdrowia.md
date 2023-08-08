@@ -10,12 +10,13 @@ Dlaczego sen jest tak ważny? Jaki wpływ ma na nasze zdrowie i dobre samopoczuc
 
 ## Dlaczego śpimy
 
-Sen jest kluczowym elementem dla utrzymania dobrego zdrowia i funkcjonowania organizmu. Oto kilka powodów, dla których ludzie muszą spać:
+Sen jest kluczowym elementem dla utrzymania dobrego zdrowia i funkcjonowania organizmu. W jego trakcie ciało przechodzi przez szereg ważnych procesów fizjologicznych i biologicznych, które odgrywają kluczową rolę w zachowaniu zdrowia i funkcjonowaniu mózgu. Oto kilka powodów, dla których ludzie muszą spać:
 
 1. **Regeneracja organizmu:** Sen jest czasem, kiedy nasze ciało prowadzi wiele kluczowych procesów regeneracyjnych. Podczas snu, nasze komórki i tkanki są odbudowywane i naprawiane, co jest szczególnie ważne dla zdrowia serca i układu krążenia.
 1. **Utrzymanie układu odpornościowego:** Sen pomaga regulować układ odpornościowy, co jest kluczowe dla obrony przed infekcjami i chorobami. Badania wykazały, że ludzie, którzy mają chroniczny brak snu, są bardziej narażeni na różne choroby, w tym przeziębienia i grypę.
 1. **Poprawa funkcji poznawczych:** Podczas snu, nasz mózg przetwarza i przechowuje informacje, które otrzymaliśmy w ciągu dnia. Jest to kluczowy element procesów uczenia się i pamięci. Bez odpowiedniej ilości snu, nasze zdolności do skupienia się, uczenia się i podejmowania decyzji mogą być znacząco zmniejszone.
-1. **Regulacja metabolizmu:** Sen wpływa również na regulację metabolizmu i utrzymanie zdrowej wagi. Badania wykazały, że krótki sen jest związany z zwiększonym ryzykiem otyłości i cukrzycy.
+1. **Regulacja metabolizmu:** Sen wpływa również na regulację metabolizmu i utrzymanie zdrowej wagi.
+1. **Usuwanie toksyn:** Podczas snu mózg wyzbywa się toksyn i zużytych resztek. Dzieje się tak za sprawą systemu glimfatycznego – sieci, która transportuje zbędne resztki z mózgu takie jak beta-amyloid odpowiedzialny za choroby demencyjne.
 
 ## Cykl dobowy
 
@@ -35,7 +36,7 @@ Sen jest złożonym procesem, który składa się z kilku faz. Każda z nich ma 
 
 1. **Faza 1 - Sen płytki:** To jest faza, w której właśnie zaczynasz zasypiać. Twój puls zwalnia, mięśnie się rozluźniają, a mózg zaczyna produkować fale theta, które są wolnymi falami mózgowymi.
 2. **Faza 2 - Lekki sen:** W tym etapie jesteś w stanie lekkiego snu, ale wciąż łatwo można Cię obudzić. Twój mózg zaczyna produkować nagłe zwiększenia aktywności zwane wrzecionami snu.
-3. **Faza 3 i 4 - Sen głęboki:** To jest etap, kiedy jest najtrudniej Cię obudzić. Jest to najbardziej odnowicielski etap snu, podczas którego ciało naprawia i odbudowuje mięśnie i tkanki, stymuluje wzrost i rozwój, zwiększa układ odpornościowy i gromadzi energię na następny dzień.
+3. **Faza 3 - Sen głęboki:** To jest etap, kiedy jest najtrudniej Cię obudzić. Jest to najbardziej odnowicielski etap snu, podczas którego ciało naprawia i odbudowuje mięśnie i tkanki, stymuluje wzrost i rozwój, zwiększa układ odpornościowy i gromadzi energię na następny dzień.
 4. **Faza REM (Rapid Eye Movement):** Ta faza snu występuje na ogół po około 90 minutach od zasnięcia. Charakteryzuje się szybkimi ruchami oczu, zwiększoną aktywnością mózgu, snami i czasami paraliżem ciała. Faza REM jest ważna dla procesów uczenia się i pamięci, ponieważ wtedy mózg przetwarza i przechowuje informacje z poprzedniego dnia.
 
 ## Skutki niedosypiania
@@ -64,7 +65,7 @@ W związku z negatywnymi skutkami dla organizmu oraz ogólnym zwiększonym ryzyk
 
 ## Minimalna ilość snu
 
-Podczas gdy potrzeby snu mogą się różnić w zależności od wieku, stylu życia czy stanu zdrowia, eksperci zgodnie podkreślają, że zdrowy dorosły człowiek powinien średnio spać od 7 do 9 godzin na dobę. Dowody naukowe wskazują, że regularne spędzanie nocy na mniej niż 7 godzinach snu może mieć negatywne skutki zdrowotne, takie jak zwiększone ryzyko chorób przewlekłych, problemy z pamięcią, a nawet skrócenie oczekiwanej długości życia.
+Podczas gdy potrzeby snu mogą się różnić w zależności od wieku, stylu życia czy stanu zdrowia, badania wykazują, że zdrowy dorosły człowiek powinien średnio spać od 7 do 9 godzin na dobę. Dowody naukowe oznajmiają, że regularne spędzanie nocy na mniej niż 7 godzinach snu może mieć negatywne skutki zdrowotne, takie jak zwiększone ryzyko chorób przewlekłych, problemy z pamięcią, a nawet skrócenie oczekiwanej długości życia.
 
 Idealnie, dla pełnej regeneracji organizmu, najbardziej optymalna ilość snu to około 8 godzin i 15 minut. Tak precyzyjne wyznaczenie czasu wiąże się z cyklami snu, które trwają średnio około 90 minut. Spanie przez 8 godzin i 15 minut umożliwia przejście przez 5 pełnych cykli snu, co daje organizmowi najlepsze warunki do regeneracji i odpoczynku.
 
@@ -80,6 +81,8 @@ Higiena snu to zestaw nawyków i praktyk, które mogą poprawić jakość i ilo�
 * **Ciemność** w sypialni: światło zakłóca sen, w sypialni powinno być na tyle ciemno, aby dłoń na wyciągniętej ręce nie była widoczna.
 * **Cisza** w pomieszczeniu: hałas utrudnia zasypianie i może prowadzić do wybudzeń.
 * **Niska temperatura**: mózg potrzebuje obniżenia temperatury do regeneracji. Zalecane wartość dla dorosłych to 19 C, a dla małch dzieci 22 C.
+* **Wilgotność powietrza:** powinna mieścić się w przedziale 30-60% co ogranicza tworzenie drobnoustrojów i patogenów.
+* **Wietrzenie sypialni:** świeże i chłodne powietrze jest relaksujące oraz poprawia jakość oddechu.
 * **Komfort** łóżka: dobry materac i poduszka mogą znacząco wpłynąć na jakość snu.
 * **Unikanie kawy** przed snem, gdyż zaburza odczuwanie zmęczenia.
 * **Unikanie alkoholu** przed snem: mimo, że ułatwia zasypianie, to jednak powoduje że sen jest płytki i znacznie mniej regenerujący.
