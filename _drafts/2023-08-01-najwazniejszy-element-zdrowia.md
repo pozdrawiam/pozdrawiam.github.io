@@ -107,6 +107,18 @@ Zasada 10-3-2-1-0 to łatwe do zapamiętania wytyczne postępowania w ciągu dni
 
 Podążanie za tą zasadą może pomóc nam utrzymać zdrowe nawyki związane ze snem i poprawić ogólną jakość naszego snu.
 
+## Marzenia senne
+
+Marzenia senne są doświadczeniami wizualnymi, emocjonalnymi i myślowymi, które występują podczas snu. Najczęściej występują podczas fazy REM. W ciągu jednej nocy możemy doświadczyć od kilku do nawet kilkunastu różnych marzeń sennych choć zwykle większości z nich nie pamiętamy, co wynika z braku aktywacji pewnych części mózgu odpowiedzialnych za tworzenie wspomnień podczas tej fazy snu.
+Są one fascynującym aspektem ludzkiego doświadczenia i były przedmiotem zainteresowania i badania przez wiele kultur i cywilizacji na przestrzeni wieków.
+
+Mogą być bardzo różnorodne – od prostych scen i obrazów po skomplikowane fabuły z wieloma postaciami i miejscami. Mogą być przyjemne, neutralne lub koszmarne. Często marzenia odzwierciedlają doświadczenia, myśli i uczucia. Mogą się powtarzać lub mieć podobne motywy, postacie lub miejsca co może mieć związek z regularnymi bodźcami lub emocjami takie jak nierozwiązane problemy. 
+
+Istnieje wiele teorii dotyczących funkcji marzeń sennych. Niektóre z nich sugerują, że marzenia służą do przetwarzania i konsolidacji wspomnień, inne twierdzą, że pomagają w regulacji emocji, a jeszcze inne uważają, że są one formą mentalnej symulacji służącej przygotowaniu do przyszłych wydarzeń.
+
+Zdarza się, że czasami niektóre osoby potrafią kontrolować elementy swojego snu, co daje im możliwość kierowania przebiegiem marzeń sennych - takie rzadkie wydarzenie nazywane jest _świadomym snem_. 
+Istnieją techniki takie jak dziennik snów, które pomagają zapamiętywaniu marzeń sennych oraz częstszemu doświadczaniu świadomych snów, co można wykorzystać na kreatywne sposoby np. w celu poszukiwanie inspiracji.
+
 ## Akcesoria dla lepszego snu
 todo
 
