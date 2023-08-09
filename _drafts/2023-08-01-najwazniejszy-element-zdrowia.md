@@ -70,7 +70,7 @@ W związku z negatywnymi skutkami dla organizmu oraz ogólnym zwiększonym ryzyk
 
 Podczas gdy potrzeby snu mogą się różnić w zależności od wieku, stylu życia czy stanu zdrowia, badania wykazują, że zdrowy dorosły człowiek powinien średnio spać od 7 do 9 godzin na dobę. Dowody naukowe oznajmiają, że regularne spędzanie nocy na mniej niż 7 godzinach snu może mieć negatywne skutki zdrowotne, takie jak zwiększone ryzyko chorób przewlekłych, problemy z pamięcią, a nawet skrócenie oczekiwanej długości życia.
 
-Idealnie, dla pełnej regeneracji organizmu, najbardziej optymalna ilość snu to około 8 godzin i 15 minut. Tak precyzyjne wyznaczenie czasu wiąże się z cyklami snu, które trwają średnio około 90 minut. Spanie przez 8 godzin i 15 minut umożliwia przejście przez 5 pełnych cykli snu, co daje organizmowi najlepsze warunki do regeneracji i odpoczynku.
+Idealnie, dla pełnej regeneracji organizmu, najbardziej optymalna ilość snu to około 8 godzin i 15 minut. Tak precyzyjne wyznaczenie czasu wiąże się z cyklami snu, które trwają średnio około 90 minut. Spanie przez około 8 godzin i 15 minut bez wybudzeń umożliwia przejście przez 5 pełnych cykli snu, co daje organizmowi najlepsze warunki do regeneracji i odpoczynku.
 
 Wielu z nas zna kogoś, kto twierdzi, że "wystarcza mu 6 godzin snu". Choć niektórzy ludzie mogą wydawać się dobrze funkcjonować po krótkim czasie snu, bieżące badania sugerują, że długotrwałe skracanie snu może prowadzić do poważnych konsekwencji zdrowotnych w przyszłości. Należy pamiętać, że sen jest nie tylko do odpoczynku, ale przede wszystkim o regeneracji i ochronie naszego zdrowia. 
 
@@ -131,7 +131,11 @@ Poprawna drzemka powinna trwać do 30 minut. Pozwala to uniknąć fazy głęboki
 Najpóźniejsza pora drzemki to wczesne popołudnie.
 Obie te zasady bardzo łatwo złamać co może zakłócić nocny sen, dlatego najlepiej unikać stosowania drzemek.
 
-## Akcesoria dla lepszego snu
+## Gadżety na lepszy sen
+
+todo
+
+## Chronotypy
 
 todo
 
