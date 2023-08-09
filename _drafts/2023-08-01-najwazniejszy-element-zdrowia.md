@@ -124,7 +124,12 @@ Istnieją techniki takie jak dziennik snów, które pomagają zapamiętywaniu ma
 
 ## Drzemki
 
-todo
+Drzemki w ciągu dnia mogą przynieść wiele korzyści, ale też mogą mieć pewne pułapki, jeśli nie są odpowiednio planowane. Pomagają w odzykiwaniu energii, mogą poprawić wydajność umysłową, koncentrację, nastrój i zredukować stres. 
+
+Zasady zdrowej drzemki to krótka długość i wczesna pora.
+Poprawna drzemka powinna trwać do 30 minut. Pozwala to uniknąć fazy głębokiego snu i uczucia oszołomienia po przebudzeniu. 
+Najpóźniejsza pora drzemki to wczesne popołudnie.
+Obie te zasady bardzo łatwo złamać co może zakłócić nocny sen, dlatego najlepiej unikać stosowania drzemek.
 
 ## Akcesoria dla lepszego snu
 
