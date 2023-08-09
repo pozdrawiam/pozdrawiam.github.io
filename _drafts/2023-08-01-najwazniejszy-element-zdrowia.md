@@ -72,7 +72,7 @@ Podczas gdy potrzeby snu mogą się różnić w zależności od wieku, stylu ży
 
 Idealnie, dla pełnej regeneracji organizmu, najbardziej optymalna ilość snu to około 8 godzin i 15 minut. Tak precyzyjne wyznaczenie czasu wiąże się z cyklami snu, które trwają średnio około 90 minut. Spanie przez 8 godzin i 15 minut umożliwia przejście przez 5 pełnych cykli snu, co daje organizmowi najlepsze warunki do regeneracji i odpoczynku.
 
-Wielu z nas zna kogoś, kto twierdzi, że "wystarcza mu 6 godzin snu". Choć niektórzy ludzie mogą wydawać się dobrze funkcjonować po krótkim czasie snu, bieżące badania sugerują, że długotrwałe skracanie snu może prowadzić do poważnych konsekwencji zdrowotnych w przyszłości. Należy pamiętać, że sen jest nie tylko o odpoczynku, ale przede wszystkim o regeneracji i ochronie naszego zdrowia. 
+Wielu z nas zna kogoś, kto twierdzi, że "wystarcza mu 6 godzin snu". Choć niektórzy ludzie mogą wydawać się dobrze funkcjonować po krótkim czasie snu, bieżące badania sugerują, że długotrwałe skracanie snu może prowadzić do poważnych konsekwencji zdrowotnych w przyszłości. Należy pamiętać, że sen jest nie tylko do odpoczynku, ale przede wszystkim o regeneracji i ochronie naszego zdrowia. 
 
 Niektórzy mogą myśleć, że skoro nie spali wystarczająco w ciągu tygodnia, mogą "odespać" to w weekend. Niestety, sen nie działa na zasadzie "długu" - nie możemy po prostu "nadrabiać" snu. Co więcej, spanie przez długie godziny w weekend może de facto zakłócić nasz wewnętrzny zegar biologiczny, co prowadzi do uczucia zmęczenia podobnego do podróży przez kilka stref czasowych.
 
@@ -122,8 +122,14 @@ Istnieje wiele teorii dotyczących funkcji marzeń sennych. Niektóre z nich sug
 Zdarza się, że czasami niektóre osoby potrafią kontrolować elementy swojego snu, co daje im możliwość kierowania przebiegiem marzeń sennych - takie rzadkie wydarzenie nazywane jest _świadomym snem_. 
 Istnieją techniki takie jak dziennik snów, które pomagają zapamiętywaniu marzeń sennych oraz częstszemu doświadczaniu świadomych snów, co można wykorzystać na kreatywne sposoby np. w celu poszukiwanie inspiracji.
 
+## Drzemki
+
+todo
+
 ## Akcesoria dla lepszego snu
+
 todo
 
 ## Podsumowanie
-todo
+
+Biologia i fizjologia snu są skomplikowanymi, ale niezwykle ważnymi obszarami, które nadal są przedmiotem badań. Zrozumienie, jak śpiący organizm funkcjonuje, nie tylko pomaga wyjaśnić to zjawisko, ale także ukazuje, jak kluczowa jest odpowiednia ilość i jakość snu dla ogólnego zdrowia i dobrostanu.
