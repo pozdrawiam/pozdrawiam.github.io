@@ -32,12 +32,15 @@ Zaleca się, aby nasz czas snu regularnie pokrywał się jak najbardziej z natur
 
 ## Fazy snu
 
-Sen jest złożonym procesem, który składa się z kilku faz. Każda z nich ma swoją specyficzną rolę i charakterystykę. Na ogół, przez czas snu, przechodzimy przez cykle, które obejmują wszystkie fazy snu.
+Sen jest złożonym procesem, który składa się z kilku faz. Każda z nich ma swoją specyficzną rolę i charakterystykę. Na ogół, przez czas snu, przechodzimy przez cykle, które obejmują wszystkie fazy snu. 
+Każdy taki cykl składa się z faz NREM oraz jednej REM:
 
-1. **Faza 1 - Sen płytki:** To jest faza, w której właśnie zaczynasz zasypiać. Twój puls zwalnia, mięśnie się rozluźniają, a mózg zaczyna produkować fale theta, które są wolnymi falami mózgowymi.
-2. **Faza 2 - Lekki sen:** W tym etapie jesteś w stanie lekkiego snu, ale wciąż łatwo można Cię obudzić. Twój mózg zaczyna produkować nagłe zwiększenia aktywności zwane wrzecionami snu.
-3. **Faza 3 - Sen głęboki:** To jest etap, kiedy jest najtrudniej Cię obudzić. Jest to najbardziej odnowicielski etap snu, podczas którego ciało naprawia i odbudowuje mięśnie i tkanki, stymuluje wzrost i rozwój, zwiększa układ odpornościowy i gromadzi energię na następny dzień.
+1. **Faza 1 - Sen płytki:** Pierwsza faza snu jest krótka i trwa zwykle kilka minut. Jest to okres przejścia od czuwania do snu, w którym mięśnie się rozluźniają, ale reakcje na bodźce zewnętrzne są nadal możliwe. Puls zwalnia, mięśnie się rozluźniają, a mózg zaczyna produkować fale theta, które są wolnymi falami mózgowymi.
+2. **Faza 2 - Lekki sen:** Druga faza trwa około 20 minut. W tym etapie jesteś w stanie lekkiego snu, ale wciąż łatwo można Cię obudzić. Podczas tej fazy serce zwalnia, temperatura ciała spada, a organizm przygotowuje się do głębokiego snu. Twój mózg zaczyna produkować nagłe zwiększenia aktywności zwane wrzecionami snu.
+3. **Faza 3 - Sen głęboki:** To jest etap, kiedy jest najtrudniej Cię obudzić. Jest to najbardziej regenerujący etap snu, podczas którego ciało naprawia i odbudowuje mięśnie i tkanki, stymuluje wzrost i rozwój, poprawia układ odpornościowy i gromadzi energię na następny dzień. System glymfatyczny (system usuwania odpadów w mózgu) jest najbardziej aktywny w tym czasie, dzięki czemu mózg skutecznie pozbywa się toksyn i odpadów.
 4. **Faza REM (Rapid Eye Movement):** Ta faza snu występuje na ogół po około 90 minutach od zasnięcia. Charakteryzuje się szybkimi ruchami oczu, zwiększoną aktywnością mózgu, snami i czasami paraliżem ciała. Faza REM jest ważna dla procesów uczenia się i pamięci, ponieważ wtedy mózg przetwarza i przechowuje informacje z poprzedniego dnia.
+
+Czas trwania poszczególnych faz zmienia się wraz z kolejnymi cyklami: w pierwszym najwięcej czasu zajmuje sen głęboki, w kolejnych zaczyna się skracać na rzecz fazy REM.
 
 ## Skutki niedosypiania
 Niedosypianie i bagatelizowanie znaczenia zdrowego snu mogą prowadzić do negatywnych skutków zarówno dla naszego samopoczucia jak i poważnych konsekwencji zdrowotnych. 
