@@ -125,6 +125,10 @@ Istnieje wiele teorii dotyczących funkcji marzeń sennych. Niektóre z nich sug
 Zdarza się, że czasami niektóre osoby potrafią kontrolować elementy swojego snu, co daje im możliwość kierowania przebiegiem marzeń sennych - takie rzadkie wydarzenie nazywane jest _świadomym snem_. 
 Istnieją techniki takie jak dziennik snów, które pomagają zapamiętywaniu marzeń sennych oraz częstszemu doświadczaniu świadomych snów, co można wykorzystać na kreatywne sposoby np. w celu poszukiwanie inspiracji.
 
+## Chronotypy
+
+todo
+
 ## Drzemki
 
 Drzemki w ciągu dnia mogą przynieść wiele korzyści, ale też mogą mieć pewne pułapki, jeśli nie są odpowiednio planowane. Pomagają w odzykiwaniu energii, mogą poprawić wydajność umysłową, koncentrację, nastrój i zredukować stres. 
@@ -136,11 +140,17 @@ Obie te zasady bardzo łatwo złamać co może zakłócić nocny sen, dlatego na
 
 ## Gadżety na lepszy sen
 
-todo
+Istnieje wiele akcesoriów i gadżetów zaprojektowanych tak, aby pomóc w poprawie jakości snu. Oto kilka z nich:
 
-## Chronotypy
-
-todo
+* **Materace i poduszki ortopedyczne**: Dobrej jakości materac i poduszka dostosowane do indywidualnych potrzeb znacząco podnoszą komfort w łóżku.
+* **Koce ciężarowe**: Są to koce o większej masie, które wywierają delikatny nacisk na ciało, co jest relaksujące.
+* **Szlafroki i piżamy z naturalnych materiałów**: Odzież wykonana z naturalnych materiałów, takich jak bawełna, może pomóc w termoregulacji.
+* **Zegary sypialniane z symulacją wschodu słońca**: Stopniowo zwiększają jasność światła, symulując naturalny wschód słońca, aby delikatnie budzić użytkownika.
+* **Okulary z filtrem światła niebieskiego**: Mogą pomóc w redukcji ekspozycji na światło niebieskie przed snem, które zakłóca produkcję melatoniny.
+* **Opaska na oczy**: W celu zablokowania dostępu światła, szczególnie w jasnych środowiskach lub podczas podróży. Pomaga w zredukowaniu zakłóceń snu spowodowanych przez zmienne warunki świetlne, takie jak światła uliczne czy wczesny wschód słońca.
+* **Aplikacje do śledzenia snu**: Dostępne na smartfony lub smartwatche, pomagają monitorować jakość i długość snu.
+* **Herbatki i zioła**: Melisa, szyszka chmielu lub inne mieszanki ziół mają właściwości relaksacyjne i odprężające.
+* **Suplementy z melatoniną**: Pomocne dla osób pracujących na zmiany, podróżujących między strefami czasowymi, lub w podeszłym wieku, aby dostosować swój wewnętrzny zegar biologiczny. Jednak zawsze warto skonsultować się z lekarzem przed rozpoczęciem suplementacji.
 
 ## Podsumowanie
 
