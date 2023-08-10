@@ -115,7 +115,7 @@ Podążanie za tą zasadą może pomóc nam utrzymać zdrowe nawyki związane ze
 
 ## Marzenia senne
 
-Marzenia senne są doświadczeniami wizualnymi, emocjonalnymi i myślowymi, które występują podczas snu. Najczęściej występują podczas fazy REM. W ciągu jednej nocy możemy doświadczyć od kilku do nawet kilkunastu różnych marzeń sennych choć zwykle większości z nich nie pamiętamy, co wynika z braku aktywacji pewnych części mózgu odpowiedzialnych za tworzenie wspomnień podczas tej fazy snu.
+Marzenia senne są doświadczeniami wizualnymi, emocjonalnymi i myślowymi, które generowane są przez mózg podczas snu. Najczęściej występują podczas fazy REM. W ciągu jednej nocy możemy doświadczyć od kilku do nawet kilkunastu różnych marzeń sennych choć zwykle większości z nich nie pamiętamy, co wynika z braku aktywacji pewnych części mózgu odpowiedzialnych za tworzenie wspomnień podczas tej fazy snu.
 Są one fascynującym aspektem ludzkiego doświadczenia i były przedmiotem zainteresowania i badania przez wiele kultur i cywilizacji na przestrzeni wieków.
 
 Mogą być bardzo różnorodne – od prostych scen i obrazów po skomplikowane fabuły z wieloma postaciami i miejscami. Mogą być przyjemne, neutralne lub koszmarne. Często marzenia odzwierciedlają doświadczenia, myśli i uczucia. Mogą się powtarzać lub mieć podobne motywy, postacie lub miejsca co może mieć związek z regularnymi bodźcami lub emocjami takie jak nierozwiązane problemy. 
@@ -145,3 +145,4 @@ todo
 ## Podsumowanie
 
 Biologia i fizjologia snu są skomplikowanymi, ale niezwykle ważnymi obszarami, które nadal są przedmiotem badań. Zrozumienie, jak śpiący organizm funkcjonuje, nie tylko pomaga wyjaśnić to zjawisko, ale także ukazuje, jak kluczowa jest odpowiednia ilość i jakość snu dla ogólnego zdrowia i dobrostanu.
+Człowiek wyspany to osoba pełna energii, radosna i zmotywowana, gotowa stawiać czoła wyzwaniom każdego nowego dnia.
