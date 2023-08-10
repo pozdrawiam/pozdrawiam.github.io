@@ -43,9 +43,11 @@ Każdy taki cykl składa się z faz NREM oraz jednej REM:
 Czas trwania poszczególnych faz zmienia się wraz z kolejnymi cyklami: w pierwszym najwięcej czasu zajmuje sen głęboki, w kolejnych zaczyna się skracać na rzecz fazy REM.
 
 ## Skutki niedosypiania
+
 Niedosypianie i bagatelizowanie znaczenia zdrowego snu mogą prowadzić do negatywnych skutków zarówno dla naszego samopoczucia jak i poważnych konsekwencji zdrowotnych. 
 
 ### Skutki krótkotrwałe
+
 * Zmęczenie i brak energii: to najbardziej oczywisty efekt niedosypiania. Może to wpłynąć na naszą wydajność w pracy lub w szkole, a także na naszą zdolność do prowadzenia normalnego życia.
 * Zaburzenia koncentracji i pamięci: sen jest kluczowy dla procesów poznawczych. Niedobór snu może prowadzić do problemów z koncentracją, podejmowaniem decyzji i pamięcią.
 * Zmniejszona odporność: układ odpornościowmy może się osłabić, co zwiększa naszą podatność na infekcje.
@@ -53,6 +55,7 @@ Niedosypianie i bagatelizowanie znaczenia zdrowego snu mogą prowadzić do negat
 * Mikrosny, zwiększone ryzyko wypadków: mogą zdarzać którkie utraty pytomności trwające niekiedy nawet ok. 2 sekund, co zwiększa ryzyko wypadków szczególnie tych na drodze.
 
 ### Zwiększonego ryzyko chorób
+
 Zaburzenia snu i przewlekłe niedosypianie mogą prowadzić do szeregu poważnych problemów zdrowotnych. Oto niektóre z chorób, które są często związane z długotrwałym niedoborem snu:
 
 1. **Choroby sercowo-naczyniowe:** Zaburzenia snu, takie jak bezsenność i bezdech senny, są powiązane z podwyższonym ryzykiem chorób sercowych, takich jak choroba wieńcowa, zawał serca, niewydolność serca i udar.
@@ -61,7 +64,7 @@ Zaburzenia snu i przewlekłe niedosypianie mogą prowadzić do szeregu poważnyc
 1. **Otyłość:** Niedobór snu może zakłócić regulację hormonów kontrolujących apetyt, co może prowadzić do niepochamowanego głodu i otyłości.
 1. **Zaburzeń psychiczne** Niedobór snu jest bezpośrednio powiązany z niemal wszystkimi zaburzeniami psychicznymi, sprzyja depresji i stanom lękowym.
 1. **Zaburzenia hormonalne:** Niedosypianie może zaburzyć równowagę hormonalną w organizmie, prowadząc do problemów z płodnością, zaburzeń miesiączkowania i niskiego libido.
-1. **Choroby neurodegeneracyjne:** Przewlekłe zaburzenia snu mogą zwiększyć ryzyko rozwoju chorób neurodegeneracyjnych, takich jak choroba Parkinsona i choroba Alzheimera oraz znacznie zwiększyć ryzyko demencji na starość.
+1. **Choroby neurodegeneracyjne:** Przewlekłe zaburzenia snu mogą zwiększyć ryzyko rozwoju chorób neurodegeneracyjnych, takich jak choroba Parkinsona i choroba Alzheimera oraz demencji na starość.
 1. **Rak:** Niedosypianie może wpływać na regulację procesów komórkowych i sprzyjać stanom zapalnym, co może zwiększyć ryzyko niektórych typów nowotworów.
 
 W związku z negatywnymi skutkami dla organizmu oraz ogólnym zwiększonym ryzykiem groźnych chorób bagatelizowanie zdrowego snu może znacznie skrócić długość życia.
