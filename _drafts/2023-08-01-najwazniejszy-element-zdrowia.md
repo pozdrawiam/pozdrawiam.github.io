@@ -58,14 +58,14 @@ Niedosypianie i bagatelizowanie znaczenia zdrowego snu mogą prowadzić do negat
 
 Zaburzenia snu i przewlekłe niedosypianie mogą prowadzić do szeregu poważnych problemów zdrowotnych. Oto niektóre z chorób, które są często związane z długotrwałym niedoborem snu:
 
-1. **Choroby sercowo-naczyniowe:** Zaburzenia snu, takie jak bezsenność i bezdech senny, są powiązane z podwyższonym ryzykiem chorób sercowych, takich jak choroba wieńcowa, zawał serca, niewydolność serca i udar.
-1. **Nadciśnienie tętnicze:** Przewlekłe niedosypianie jest powiązane z wyższym ryzykiem podwyższonego ciśnienia tętniczego. Mechanizm ten jest związany z faktem, że podczas snu ciśnienie krwi naturalnie spada. Jeśli nie śpisz wystarczająco długo, ten okres spadku ciśnienia jest skrócony, co może prowadzić do jego ogólnego podwyższenia.
-1. **Cukrzyca:** Przewlekłe niedosypianie może prowadzić do insulinooporności - stanu, który jest prekursorem cukrzycy typu 2.
-1. **Otyłość:** Niedobór snu może zakłócić regulację hormonów kontrolujących apetyt, co może prowadzić do niepochamowanego głodu i otyłości.
-1. **Zaburzeń psychiczne** Niedobór snu jest bezpośrednio powiązany z niemal wszystkimi zaburzeniami psychicznymi, sprzyja depresji i stanom lękowym.
-1. **Zaburzenia hormonalne:** Niedosypianie może zaburzyć równowagę hormonalną w organizmie, prowadząc do problemów z płodnością, zaburzeń miesiączkowania i niskiego libido.
-1. **Choroby neurodegeneracyjne:** Przewlekłe zaburzenia snu mogą zwiększyć ryzyko rozwoju chorób neurodegeneracyjnych, takich jak choroba Parkinsona i choroba Alzheimera oraz demencji na starość.
-1. **Rak:** Niedosypianie może wpływać na regulację procesów komórkowych i sprzyjać stanom zapalnym, co może zwiększyć ryzyko niektórych typów nowotworów.
+1. **Choroby sercowo-naczyniowe**: Zaburzenia snu, takie jak bezsenność i bezdech senny, są powiązane z podwyższonym ryzykiem chorób sercowych, takich jak choroba wieńcowa, zawał serca, niewydolność serca i udar.
+1. **Nadciśnienie tętnicze**: Przewlekłe niedosypianie jest powiązane z wyższym ryzykiem podwyższonego ciśnienia tętniczego. Mechanizm ten jest związany z faktem, że podczas snu ciśnienie krwi naturalnie spada. Jeśli nie śpisz wystarczająco długo, ten okres spadku ciśnienia jest skrócony, co może prowadzić do jego ogólnego podwyższenia.
+1. **Cukrzyca**: Przewlekłe niedosypianie może prowadzić do insulinooporności - stanu, który jest prekursorem cukrzycy typu 2.
+1. **Otyłość**: Niedobór snu może zakłócić regulację hormonów kontrolujących apetyt, co może prowadzić do niepochamowanego głodu i otyłości.
+1. **Zaburzenia psychiczne**: Niedobór snu jest bezpośrednio powiązany z niemal wszystkimi zaburzeniami psychicznymi, sprzyja depresji i stanom lękowym.
+1. **Zaburzenia hormonalne**: Niedosypianie może zaburzyć równowagę hormonalną w organizmie, prowadząc do problemów z płodnością, zaburzeń miesiączkowania i niskiego libido.
+1. **Choroby neurodegeneracyjne**: Przewlekłe zaburzenia snu mogą zwiększyć ryzyko rozwoju chorób neurodegeneracyjnych, takich jak choroba Parkinsona i choroba Alzheimera oraz demencji na starość.
+1. **Rak**: Niedosypianie może wpływać na regulację procesów komórkowych i sprzyjać stanom zapalnym, co może zwiększyć ryzyko niektórych typów nowotworów.
 
 W związku z negatywnymi skutkami dla organizmu oraz ogólnym zwiększonym ryzykiem groźnych chorób bagatelizowanie zdrowego snu może znacznie skrócić długość życia.
 
@@ -87,8 +87,8 @@ Higiena snu to zestaw nawyków i praktyk, które mogą poprawić jakość i ilo�
 * **Ciemność** w sypialni: światło zakłóca sen, w sypialni powinno być na tyle ciemno, aby dłoń na wyciągniętej ręce nie była widoczna.
 * **Cisza** w pomieszczeniu: hałas utrudnia zasypianie i może prowadzić do wybudzeń.
 * **Niska temperatura**: mózg potrzebuje obniżenia temperatury do regeneracji. Zalecane wartość dla dorosłych to 19 C, a dla małch dzieci 22 C.
-* **Wilgotność powietrza:** powinna mieścić się w przedziale 30-60% co ogranicza tworzenie drobnoustrojów i patogenów.
-* **Wietrzenie sypialni:** świeże i chłodne powietrze jest relaksujące oraz poprawia jakość oddechu.
+* **Wilgotność powietrza**: powinna mieścić się w przedziale 30-60% co ogranicza tworzenie drobnoustrojów i patogenów.
+* **Wietrzenie sypialni**: świeże i chłodne powietrze jest relaksujące oraz poprawia jakość oddechu.
 * **Komfort** łóżka: dobry materac i poduszka mogą znacząco wpłynąć na jakość snu.
 * **Unikanie kawy** przed snem, gdyż zaburza odczuwanie zmęczenia.
 * **Unikanie alkoholu** przed snem: mimo, że ułatwia zasypianie, to jednak powoduje że sen jest płytki i znacznie mniej regenerujący.
