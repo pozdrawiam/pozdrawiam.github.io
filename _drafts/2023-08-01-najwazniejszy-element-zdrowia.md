@@ -127,7 +127,19 @@ Istnieją techniki takie jak dziennik snów, które pomagają zapamiętywaniu ma
 
 ## Chronotypy
 
-todo
+**Chronotypy** to indywidualne preferencje dotyczące aktywności w ciągu dnia oraz cyklu snu i czuwania, które wynikają z wewnętrznego zegara biologicznego człowieka. Chronotyp wpływa na nasze naturalne tendencje do funkcjonowania o określonych porach dnia i nocy. Istnieją różne chronotypy, które można zaklasyfikować głównie do następujących kategorii:
+
+1. **Skowronek:** Osoby z tym chronotypem mają naturalną tendencję do wcześniejszego zasypiania i budzenia się wcześnie rano. Są najbardziej aktywne i produktywne w godzinach porannych, a popołudniami i wieczorami ich energia zaczyna spadać.
+
+2. **Sowa:** Osoby te są przeciwieństwem skowronków. Mają skłonność do późnego zasypiania i późnego wstawania. Najbardziej aktywne są wieczorami, a poranki często są dla nich trudne.
+
+3. **Intermediariusz (typ pośredni):** Osoby o tym chronotypie mieszczą się pomiędzy skowronkiem a sową. Ich rytm snu-czuwania jest najbardziej zbliżony do społecznych norm i oczekiwań.
+
+4. **Typ nieregularny:** Część ludzi ma trudność z ustabilizowaniem regularnego rytmu snu-czuwania i może mieć skłonność do zmieniających się wzorców snu.
+
+Nasze chronotypy są w dużej mierze uwarunkowane genetycznie, ale mogą ewoluować w ciągu życia. Na przykład, nastolatkowie często wykazują wzorce typowe dla sów, ale mogą stawać się bardziej "skowronkowymi" z wiekiem.
+
+Zrozumienie własnego chronotypu może pomóc w dostosowaniu stylu życia tak, by harmonizował z naturalnym rytmem naszego ciała. Może to przynieść korzyści w zakresie zdrowia, samopoczucia i ogólnej jakości życia. Na przykład, jeśli wiesz, że jesteś "sową", możesz starać się dostosować swój harmonogram pracy czy nauki tak, by unikać wcześniejszych poranków, co przyniesie Ci lepsze samopoczucie i wydajność.
 
 ## Drzemki
 
