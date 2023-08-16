@@ -133,11 +133,15 @@ Istnieją techniki takie jak dziennik snów, które pomagają zapamiętywaniu ma
 
 2. **Sowa:** Osoby te są przeciwieństwem skowronków. Mają skłonność do późnego zasypiania i późnego wstawania. Najbardziej aktywne są wieczorami, a poranki często są dla nich trudne.
 
-3. **Intermediariusz (typ pośredni):** Osoby o tym chronotypie mieszczą się pomiędzy skowronkiem a sową. Ich rytm snu-czuwania jest najbardziej zbliżony do społecznych norm i oczekiwań.
+3. **Uniwersalny (typ pośredni):** Osoby o tym chronotypie mieszczą się pomiędzy skowronkiem a sową. Ich rytm snu-czuwania jest najbardziej zbliżony do społecznych norm i oczekiwań. Szacuje się, że takich jest najwięcej, bo ok. 70%.
 
 4. **Typ nieregularny:** Część ludzi ma trudność z ustabilizowaniem regularnego rytmu snu-czuwania i może mieć skłonność do zmieniających się wzorców snu.
 
 Zrozumienie własnego chronotypu może pomóc w dostosowaniu stylu życia tak, by harmonizował z naturalnym rytmem naszego ciała. Może to przynieść korzyści w zakresie zdrowia, samopoczucia i ogólnej jakości życia. Na przykład, jeśli wiesz, że jesteś "skowronkiem", możesz starać się dostosować swój harmonogram pracy czy nauki tak, by unikać późnych wieczorów, co przyniesie Ci lepsze samopoczucie i wydajność.
+
+Choć sów w populacji jest jedynie kilka procent, to jednak całkowicie nie zniknęły one z naszej ewolucji. Ich przetrwanie było ważne już w dawnych czasach, gdy życie plemienne wymagało, aby zawsze ktoś czuwał w nocy. Sowy pełniły wtedy kluczową rolę, dbając o bezpieczeństwo grupy i budząc resztę członków plemienia w przypadku zagrożenia. Współczesne społeczeństwo również korzysta z naturalnych predyspozycji sów, zwłaszcza w kontekście pracy zmianowej, takiej jak prace w szpitalach, służbach porządkowych czy transportowcach pracujących nocami.
+
+Często jednak ludzie mylnie identyfikują się jako sowy tylko dlatego, że korzystają z późnych godzin wieczornych, by odreagować stres i napięcie dnia. W rzeczywistości takie zachowanie może być bardziej wynikiem napiętego harmonogramu dnia niż naturalnego chronotypu. Ważne jest, aby odróżniać prawdziwe preferencje dotyczące snu od nawyków wynikających z naszego stylu życia.
 
 ## Drzemki
 
