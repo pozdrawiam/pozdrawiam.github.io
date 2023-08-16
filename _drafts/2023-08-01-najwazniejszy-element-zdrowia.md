@@ -152,6 +152,22 @@ Poprawna drzemka powinna trwać do 30 minut. Pozwala to uniknąć fazy głęboki
 Najpóźniejsza pora drzemki to wczesne popołudnie.
 Obie te zasady bardzo łatwo złamać co może zakłócić nocny sen, dlatego najlepiej unikać stosowania drzemek.
 
+## Warto wiedzieć
+
+Pozostałe zagadznienia dotyczące snu:
+
+**Wybudzanie** ze snu, zwłaszcza w środku fazy REM, może zakłócać naturalne cykle snu, prowadząc do wzrostu poziomu hormonu stresu - kortyzolu. Właśnie z tego powodu, korzystanie z funkcji drzemki w budziku nie jest zalecane. Każde dodatkowe wybudzanie może zwiększać poziom stresu, czyniąc nas bardziej zmęczonymi i mniej wypoczętymi.
+
+**Kawa** jest jednym z najczęściej spożywanych napojów na świecie, znana przede wszystkim z zawartej w niej kofeiny, które nie tyle nas pobudza, co oszukuje nasz mózg, blokując receptory odpowiedzialne za odczuwanie zmęczenia. Mimo to, kawa ma wiele korzyści zdrowotnych, warto ją jednak spożywać odpowiednio wcześnie w ciągu dnia. Kofeina może pozostawać w naszym systemie przez wiele godzin, wpływając na zdolność do zasypiania i jakość snu.
+
+**Alkohol**, chociaż może pomóc w zasypianiu, rzeczywiście zakłóca głębokie fazy snu, czyniąc go mniej wypoczywającym.
+
+**Chrapanie** może być nie tylko źródłem frustracji dla partnera śpiącego obok, ale także oznaką poważniejszych problemów zdrowotnych, takich jak bezdech senny.
+
+**Praca zmianowa**, zwłaszcza nocne zmiany, wpływa negatywnie na nasze naturalne rytmy dobowe. Wiele badań sugeruje, że tak zwane nocki powinny być to traktowane jako warunki pracy szkodliwe dla zdrowia.
+
+**Północ** to ważny punkt odniesienia dla naszego snu. W momencie, gdy zegar wskazuje godzinę 00:00, jest to już środek nocy, a więc powinniśmy być już w trakcie drugiego cyklu snu. Odpowiednio wczesne chodzenie spać jest kluczem do zachowania zdrowia i dobrej jakości życia.
+
 ## Gadżety na lepszy sen
 
 Istnieje wiele akcesoriów i gadżetów zaprojektowanych tak, aby pomóc w poprawie jakości snu. Oto kilka z nich:
