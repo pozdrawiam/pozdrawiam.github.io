@@ -52,7 +52,7 @@ Niedosypianie i bagatelizowanie znaczenia zdrowego snu mogą prowadzić do negat
 * Zaburzenia koncentracji i pamięci: sen jest kluczowy dla procesów poznawczych. Niedobór snu może prowadzić do problemów z koncentracją, podejmowaniem decyzji i pamięcią.
 * Zmniejszona odporność: układ odpornościowy może się osłabić, co zwiększa naszą podatność na infekcje.
 * Zmiany nastroju i zaburzenia emocjonalne: niedobór snu często prowadzi do drażliwości, lęku i nadwrażliwości. Może prowadzić do nadmiernych reakcji emocjonalnych, trudności w radzeniu sobie ze stresem i zmniejszonej empatii.
-* Mikrosny, zwiększone ryzyko wypadków: mogą zdarzać krótkie utraty przytomności trwające niekiedy nawet ok. 2 sekund, co zwiększa ryzyko wypadków szczególnie tych na drodze.
+* Mikrosny, zwiększone ryzyko wypadków: mogą zdarzać krótkie utraty przytomności trwające niekiedy nawet kilka sekund, co zwiększa ryzyko wypadków szczególnie tych na drodze.
 
 ### Zwiększonego ryzyko chorób
 
@@ -61,7 +61,7 @@ Zaburzenia snu i przewlekłe niedosypianie mogą prowadzić do szeregu poważnyc
 1. **Choroby sercowo-naczyniowe**: Zaburzenia snu, takie jak bezsenność i bezdech senny, są powiązane z podwyższonym ryzykiem chorób sercowych, takich jak choroba wieńcowa, zawał serca, niewydolność serca i udar.
 1. **Nadciśnienie tętnicze**: Przewlekłe niedosypianie jest powiązane z wyższym ryzykiem podwyższonego ciśnienia tętniczego. Mechanizm ten jest związany z faktem, że podczas snu ciśnienie krwi naturalnie spada. Jeśli nie śpisz wystarczająco długo, ten okres spadku ciśnienia jest skrócony, co może prowadzić do jego ogólnego podwyższenia.
 1. **Cukrzyca**: Przewlekłe niedosypianie może prowadzić do insulinooporności - stanu, który jest prekursorem cukrzycy typu 2.
-1. **Otyłość**: Niedobór snu może zakłócić regulację hormonów kontrolujących apetyt, co może prowadzić do niepochamowanego głodu i otyłości.
+1. **Otyłość**: Niedobór snu może zakłócić regulację hormonów kontrolujących apetyt, co może prowadzić do niepohamowanego głodu i otyłości.
 1. **Zaburzenia psychiczne**: Niedobór snu jest bezpośrednio powiązany z niemal wszystkimi zaburzeniami psychicznymi, sprzyja depresji i stanom lękowym.
 1. **Zaburzenia hormonalne**: Niedosypianie może zaburzyć równowagę hormonalną w organizmie, prowadząc do problemów z płodnością, zaburzeń miesiączkowania i niskiego libido.
 1. **Choroby neurodegeneracyjne**: Przewlekłe zaburzenia snu mogą zwiększyć ryzyko rozwoju chorób neurodegeneracyjnych, takich jak choroba Parkinsona i choroba Alzheimera oraz demencji na starość.
@@ -75,7 +75,7 @@ Podczas gdy potrzeby snu mogą się różnić w zależności od wieku, stylu ży
 
 Idealnie, dla pełnej regeneracji organizmu, najbardziej optymalna ilość snu to około 8 godzin i 15 minut. Tak precyzyjne wyznaczenie czasu wiąże się z cyklami snu, które trwają średnio około 90 minut. Spanie przez około 8 godzin i 15 minut bez wybudzeń umożliwia przejście przez 5 pełnych cykli snu, co daje organizmowi najlepsze warunki do regeneracji i odpoczynku.
 
-Wielu z nas zna kogoś, kto twierdzi, że "wystarcza mu 6 godzin snu". Choć niektórzy ludzie mogą wydawać się dobrze funkcjonować po krótkim czasie snu, bieżące badania sugerują, że długotrwałe skracanie snu może prowadzić do poważnych konsekwencji zdrowotnych w przyszłości. Należy pamiętać, że sen jest nie tylko do odpoczynku, ale przede wszystkim o regeneracji i ochronie naszego zdrowia. 
+Wielu z nas zna kogoś, kto twierdzi, że "wystarcza mu 6 godzin snu". Choć niektórzy ludzie wydają się dobrze funkcjonować po krótkim czasie snu, bieżące badania sugerują, że długotrwałe skracanie snu może prowadzić do poważnych konsekwencji zdrowotnych w przyszłości. Należy pamiętać, że sen jest nie tylko do odpoczynku, ale przede wszystkim o regeneracji i ochronie naszego zdrowia. 
 
 Niektórzy mogą myśleć, że skoro nie spali wystarczająco w ciągu tygodnia, mogą "odespać" to w weekend. Niestety, sen nie działa na zasadzie "długu" - nie możemy po prostu "nadrabiać" snu. Co więcej, spanie przez długie godziny w weekend może de facto zakłócić nasz wewnętrzny zegar biologiczny, co prowadzi do uczucia zmęczenia podobnego do podróży przez kilka stref czasowych.
 
@@ -86,24 +86,24 @@ Higiena snu to zestaw nawyków i praktyk, które mogą poprawić jakość i ilo�
 * **Regularność**: kładzenie się spać o stałych, wczesnych porach np. 22:00, co reguluje cykl dobowy.
 * **Ciemność** w sypialni: światło zakłóca sen, w sypialni powinno być na tyle ciemno, aby dłoń na wyciągniętej ręce nie była widoczna.
 * **Cisza** w pomieszczeniu: hałas utrudnia zasypianie i może prowadzić do wybudzeń.
-* **Niska temperatura**: mózg potrzebuje obniżenia temperatury do regeneracji. Zalecane wartość dla dorosłych to 19 C, a dla małch dzieci 22 C.
+* **Niska temperatura**: mózg potrzebuje obniżenia temperatury do regeneracji. Zalecane wartość dla dorosłych to 19 C, a dla małych dzieci 22 C.
 * **Wilgotność powietrza**: powinna mieścić się w przedziale 30-60% co ogranicza tworzenie drobnoustrojów i patogenów.
 * **Wietrzenie sypialni**: świeże i chłodne powietrze jest relaksujące oraz poprawia jakość oddechu.
 * **Komfort** łóżka: dobry materac i poduszka mogą znacząco wpłynąć na jakość snu.
 * **Unikanie kawy** przed snem, gdyż zaburza odczuwanie zmęczenia.
-* **Unikanie alkoholu** przed snem: mimo, że ułatwia zasypianie, to jednak powoduje że sen jest płytki i znacznie mniej regenerujący.
+* **Unikanie alkoholu** przed snem: mimo że ułatwia zasypianie, to jednak powoduje, że sen jest płytki i znacznie mniej regenerujący.
 * **Aktywność fizyczna**: podczas dnia pozytywnie wpłynie na sen, ale krótko przed skutek może być odwrotny.
 * **Brak drzemek**: unikanie drzemki podczas dnia, ale jeżeli trzeba, to nie powinna przekraczać 30 minut.
-* **Kolacja** i napoje inne niż woda czy herbata, powinny być spożywane na kilka godzin przed snem zewzględu na ich trawienie. Np. kolacja napóźniej o 18:30. Ostatni posiłem nie powinien też być obfity w cukry.
+* **Kolacja** i napoje inne niż woda czy herbata, powinny być spożywane na kilka godzin przed snem ze względu na ich trawienie. Np. kolacja najpóźniej o 18:30. Ostatni posiłek nie powinien też być obfity w cukry.
 * **Brak światła niebieskiego** godzinę przed snem: światło z telewizora, komputera czy smartfonu kasuje hormon snu, bez którego nie da się zasnąć. Najlepiej nie wnoś telefonu do sypialni.
-* **Brak emocjonalnego pobudzenia** bezpośednio przed snem: skrajne emocje takie jak euforia czy smutek mogą utrudniać zasypianie.
-* **Brak pracy w sytemie zmianowym**: praca na zmiany, a szczgólnie tzw. nocki rozlegowują cykl dobowy.
+* **Brak emocjonalnego pobudzenia** bezpośrednio przed snem: skrajne emocje takie jak euforia czy smutek mogą utrudniać zasypianie.
+* **Brak pracy w systemie zmianowym**: praca na zmiany, a szczególnie tzw. nocki rozregulowują cykl dobowy.
 
 Zastosowanie tych wytycznych pomoże znacznie poprawić jakość i ilość Twojego snu, co z kolei przyczyni się do poprawy Twojego zdrowia i samopoczucia.
 
 ## Zasada 10-3-2-1-0
 
-Zasada 10-3-2-1-0 to łatwe do zapamiętania wytyczne postępowania w ciągu dnia, które mają na celu poprawę jakości snu poprzez regulację naszych nawyków. Oto, co oznaczają te liczby:
+Zasada 10-3-2-1-0 to łatwe do zapamiętania wytyczne postępowania w ciągu dnia, które mają na celu poprawę jakości snu poprzez regulację naszych nawyków. Oto co oznaczają te liczby:
 
 * **10** - Oznacza, że powinniśmy przestać spożywać kofeinę na 10 godzin przed planowaną porą snu. Kofeina może zaburzać nasz sen, utrudniając zasypianie i obniżając jakość snu. Zatem ostatnia kawa najlepiej 10 godzin przed snem.
 * **3** - To liczba godzin, na które powinniśmy przestać spożywać jedzenie i alkohol przed snem. Spożywanie kolacji tuż przed pójściem spać może zakłócać nasz sen ze względu na procesy trawienne.
@@ -115,10 +115,10 @@ Podążanie za tą zasadą może pomóc nam utrzymać zdrowe nawyki związane ze
 
 ## Marzenia senne
 
-Marzenia senne są doświadczeniami wizualnymi, emocjonalnymi i myślowymi, które generowane są przez mózg podczas snu. Najczęściej występują podczas fazy REM. W ciągu jednej nocy możemy doświadczyć od kilku do nawet kilkunastu różnych marzeń sennych choć zwykle większości z nich nie pamiętamy, co wynika z braku aktywacji pewnych części mózgu odpowiedzialnych za tworzenie wspomnień podczas tej fazy snu.
+Marzenia senne są doświadczeniami wizualnymi, emocjonalnymi i myślowymi, które generowane są przez mózg podczas snu. Najczęściej występują podczas fazy REM. W ciągu jednej nocy możemy doświadczyć od kilku do nawet kilkunastu różnych marzeń sennych, choć zwykle większości z nich nie pamiętamy, co wynika z braku aktywacji pewnych części mózgu odpowiedzialnych za tworzenie wspomnień podczas tej fazy snu.
 Są one fascynującym aspektem ludzkiego doświadczenia i były przedmiotem zainteresowania i badania przez wiele kultur i cywilizacji na przestrzeni wieków.
 
-Mogą być bardzo różnorodne – od prostych scen i obrazów po skomplikowane fabuły z wieloma postaciami i miejscami. Mogą być przyjemne, neutralne lub koszmarne. Często marzenia odzwierciedlają doświadczenia, myśli i uczucia. Mogą się powtarzać lub mieć podobne motywy, postacie lub miejsca co może mieć związek z regularnymi bodźcami lub emocjami takie jak nierozwiązane problemy. 
+Mogą być bardzo różnorodne – od prostych scen i obrazów po skomplikowane fabuły z wieloma postaciami i miejscami. Mogą być przyjemne, neutralne lub koszmarne. Często marzenia odzwierciedlają doświadczenia, myśli i uczucia. Mogą się powtarzać lub mieć podobne motywy, postacie lub miejsca co może mieć związek z regularnymi bodźcami, lub emocjami takie jak nierozwiązane problemy. 
 
 Istnieje wiele teorii dotyczących funkcji marzeń sennych. Niektóre z nich sugerują, że marzenia służą do przetwarzania i konsolidacji wspomnień, inne twierdzą, że pomagają w regulacji emocji, a jeszcze inne uważają, że są one formą mentalnej symulacji służącej przygotowaniu do przyszłych wydarzeń.
 
@@ -145,20 +145,20 @@ Często jednak ludzie mylnie identyfikują się jako sowy tylko dlatego, że kor
 
 ## Drzemki
 
-Drzemki w ciągu dnia mogą przynieść wiele korzyści, ale też mogą mieć pewne pułapki, jeśli nie są odpowiednio planowane. Pomagają w odzykiwaniu energii, mogą poprawić wydajność umysłową, koncentrację, nastrój i zredukować stres. 
+Drzemki w ciągu dnia mogą przynieść wiele korzyści, ale też mogą mieć pewne pułapki, jeśli nie są odpowiednio planowane. Pomagają w odzyskiwaniu energii, mogą poprawić wydajność umysłową, koncentrację, nastrój i zredukować stres. 
 
 Zasady zdrowej drzemki to krótka długość i wczesna pora.
 Poprawna drzemka powinna trwać do 30 minut. Pozwala to uniknąć fazy głębokiego snu i uczucia oszołomienia po przebudzeniu. 
 Najpóźniejsza pora drzemki to wczesne popołudnie.
-Obie te zasady bardzo łatwo złamać co może zakłócić nocny sen, dlatego najlepiej unikać stosowania drzemek.
+Obie te zasady bardzo łatwo złamać, co może zakłócić nocny sen, dlatego najlepiej unikać stosowania drzemek.
 
 ## Warto wiedzieć
 
-Pozostałe zagadznienia dotyczące snu:
+Pozostałe zagadnienia dotyczące snu:
 
 **Wybudzanie** ze snu, zwłaszcza w środku fazy REM, może zakłócać naturalne cykle snu, prowadząc do wzrostu poziomu hormonu stresu - kortyzolu. Właśnie z tego powodu, korzystanie z funkcji drzemki w budziku nie jest zalecane. Każde dodatkowe wybudzanie może zwiększać poziom stresu, czyniąc nas bardziej zmęczonymi i mniej wypoczętymi.
 
-**Kawa** jest jednym z najczęściej spożywanych napojów na świecie, znana przede wszystkim z zawartej w niej kofeiny, które nie tyle nas pobudza, co oszukuje nasz mózg, blokując receptory odpowiedzialne za odczuwanie zmęczenia. Mimo to, kawa ma wiele korzyści zdrowotnych, warto ją jednak spożywać odpowiednio wcześnie w ciągu dnia. Kofeina może pozostawać w naszym systemie przez wiele godzin, wpływając na zdolność do zasypiania i jakość snu.
+**Kawa** jest jednym z najczęściej spożywanych napojów na świecie, znana przede wszystkim z zawartej w niej kofeiny, które nie tyle nas pobudza, ile oszukuje nasz mózg, blokując receptory odpowiedzialne za odczuwanie zmęczenia. Mimo to kawa ma wiele korzyści zdrowotnych, warto ją jednak spożywać odpowiednio wcześnie w ciągu dnia. Kofeina może pozostawać w naszym systemie przez wiele godzin, wpływając na zdolność do zasypiania i jakość snu.
 
 **Alkohol**, chociaż może pomóc w zasypianiu, rzeczywiście zakłóca głębokie fazy snu, czyniąc go mniej wypoczywającym.
 
