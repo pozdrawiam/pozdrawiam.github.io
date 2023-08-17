@@ -16,17 +16,17 @@ Sen jest kluczowym elementem dla utrzymania dobrego zdrowia i funkcjonowania org
 1. **Utrzymanie układu odpornościowego:** Sen pomaga regulować układ odpornościowy, co jest kluczowe dla obrony przed infekcjami i chorobami. Badania wykazały, że ludzie, którzy mają chroniczny brak snu, są bardziej narażeni na różne choroby, w tym przeziębienia i grypę.
 1. **Poprawa funkcji poznawczych:** Podczas snu, nasz mózg przetwarza i przechowuje informacje, które otrzymaliśmy w ciągu dnia. Jest to kluczowy element procesów uczenia się i pamięci. Bez odpowiedniej ilości snu, nasze zdolności do skupienia się, uczenia się i podejmowania decyzji mogą być znacząco zmniejszone.
 1. **Regulacja metabolizmu:** Sen wpływa również na regulację metabolizmu i utrzymanie zdrowej wagi.
-1. **Usuwanie toksyn:** Podczas snu mózg wyzbywa się toksyn i zużytych resztek. Dzieje się tak za sprawą systemu glimfatycznego – sieci, która transportuje zbędne resztki z mózgu takie jak beta-amyloid odpowiedzialny za choroby demencyjne.
+1. **Usuwanie toksyn:** Podczas snu mózg wyzbywa się toksyn i zużytych resztek. Dzieje się tak za sprawą systemu limfatycznego – sieci, która transportuje zbędne resztki z mózgu takie jak beta-amyloid odpowiedzialny za choroby demencyjne.
 
 ## Cykl dobowy
 
 Cykle dobowe, znane również jako rytmy okołodobowe, są naturalnymi, wewnętrznymi procesami, które regulują prawie wszystkie funkcje biologiczne naszego organizmu w ciągu około 24-godzinnego cyklu. Są one niezwykle ważne dla zdrowia i dobrego samopoczucia, kontrolując takie procesy jak sen i czuwanie, wydzielanie hormonów, metabolizm, a nawet nasz nastrój i funkcje poznawcze.
 
-Jednym z najważniejszych regulatorów naszych cyklów dobowych jest światło, a zwłaszcza światło słoneczne. Nasz wewnętrzny "zegar biologiczny", znajdujący się w mózgu, wykorzystuje światło do synchronizacji naszych rytmów dobowych z otoczeniem. Dlatego też, nasze ciała są naturalnie programowane, aby być aktywne podczas dnia i odpoczywać w nocy.
+Jednym z najważniejszych regulatorów naszych cyklów dobowych jest światło, a zwłaszcza światło słoneczne. Nasz wewnętrzny "zegar biologiczny", znajdujący się w mózgu, wykorzystuje światło do synchronizacji naszych rytmów dobowych z otoczeniem. Dlatego też nasze ciała są naturalnie programowane, aby być aktywne podczas dnia i odpoczywać w nocy.
 
 Ważną rolę w tym procesie odgrywa melatonina, hormon produkowany przez nasz organizm. Melatonina jest nazywana "hormonem snu", ponieważ jej produkcja jest stymulowana przez ciemność i hamowana przez światło. Kiedy zapada zmrok, poziom melatoniny w naszym ciele zaczyna się zwiększać, sygnalizując, że nadszedł czas do snu. Natomiast ze wschodem słońca poziom melatonina maleje, co pomaga nam obudzić się i poczuć się bardziej energicznymi.
 
-Równowaga i regularność cyklów dobowych są kluczowe dla utrzymania zdrowia. Zaburzenia w cyklach dobowych, takie jak praca na nocne zmiany, długotrwałe podróże lotnicze mogą prowadzić do szeregów problemów zdrowotnychDlatego tak ważne jest, aby dbać o regularne nawyki snu i starać się jak najbardziej zgodnie z naszym naturalnym rytmem dobowym.
+Równowaga i regularność cyklów dobowych są kluczowe dla utrzymania zdrowia. Zaburzenia w cyklach dobowych, takie jak praca na nocne zmiany, długotrwałe podróże lotnicze mogą prowadzić do szeregów problemów zdrowotnych. Dlatego tak ważne jest, aby dbać o regularne nawyki snu i starać się jak najbardziej zgodnie z naszym naturalnym rytmem dobowym.
 
 Zaleca się, aby nasz czas snu regularnie pokrywał się jak najbardziej z naturalnym cyklem ciemności. Przysłowiowa "północ" jest momentem, który nasz organizm odbiera jako szczyt ciemności i idealny czas do głębokiego snu.
 
@@ -37,8 +37,8 @@ Każdy taki cykl składa się z faz NREM oraz jednej REM:
 
 1. **Faza 1 - Sen płytki:** Pierwsza faza snu jest krótka i trwa zwykle kilka minut. Jest to okres przejścia od czuwania do snu, w którym mięśnie się rozluźniają, ale reakcje na bodźce zewnętrzne są nadal możliwe. Puls zwalnia, mięśnie się rozluźniają, a mózg zaczyna produkować fale theta, które są wolnymi falami mózgowymi.
 2. **Faza 2 - Lekki sen:** Druga faza trwa około 20 minut. W tym etapie jesteś w stanie lekkiego snu, ale wciąż łatwo można Cię obudzić. Podczas tej fazy serce zwalnia, temperatura ciała spada, a organizm przygotowuje się do głębokiego snu. Twój mózg zaczyna produkować nagłe zwiększenia aktywności zwane wrzecionami snu.
-3. **Faza 3 - Sen głęboki:** To jest etap, kiedy jest najtrudniej Cię obudzić. Jest to najbardziej regenerujący etap snu, podczas którego ciało naprawia i odbudowuje mięśnie i tkanki, stymuluje wzrost i rozwój, poprawia układ odpornościowy i gromadzi energię na następny dzień. System glymfatyczny (system usuwania odpadów w mózgu) jest najbardziej aktywny w tym czasie, dzięki czemu mózg skutecznie pozbywa się toksyn i odpadów.
-4. **Faza REM (Rapid Eye Movement):** Ta faza snu występuje na ogół po około 90 minutach od zasnięcia. Charakteryzuje się szybkimi ruchami oczu, zwiększoną aktywnością mózgu, snami i czasami paraliżem ciała. Faza REM jest ważna dla procesów uczenia się i pamięci, ponieważ wtedy mózg przetwarza i przechowuje informacje z poprzedniego dnia.
+3. **Faza 3 - Sen głęboki:** To jest etap, kiedy jest najtrudniej Cię obudzić. Jest to najbardziej regenerujący etap snu, podczas którego ciało naprawia i odbudowuje mięśnie i tkanki, stymuluje wzrost i rozwój, poprawia układ odpornościowy i gromadzi energię na następny dzień. System usuwania odpadów w mózgu jest najbardziej aktywny w tym czasie, dzięki czemu mózg skutecznie pozbywa się toksyn i odpadów.
+4. **Faza REM (Rapid Eye Movement):** Ta faza snu występuje na ogół po około 90 minutach od zaśnięcia. Charakteryzuje się szybkimi ruchami oczu, zwiększoną aktywnością mózgu, snami i czasami paraliżem ciała. Faza REM jest ważna dla procesów uczenia się i pamięci, ponieważ wtedy mózg przetwarza i przechowuje informacje z poprzedniego dnia.
 
 Czas trwania poszczególnych faz zmienia się wraz z kolejnymi cyklami: w pierwszym najwięcej czasu zajmuje sen głęboki, w kolejnych zaczyna się skracać na rzecz fazy REM.
 
@@ -50,9 +50,9 @@ Niedosypianie i bagatelizowanie znaczenia zdrowego snu mogą prowadzić do negat
 
 * Zmęczenie i brak energii: to najbardziej oczywisty efekt niedosypiania. Może to wpłynąć na naszą wydajność w pracy lub w szkole, a także na naszą zdolność do prowadzenia normalnego życia.
 * Zaburzenia koncentracji i pamięci: sen jest kluczowy dla procesów poznawczych. Niedobór snu może prowadzić do problemów z koncentracją, podejmowaniem decyzji i pamięcią.
-* Zmniejszona odporność: układ odpornościowmy może się osłabić, co zwiększa naszą podatność na infekcje.
-* Zmiany nastroju i zaburzenia emocjnonalne: niedobór snu często prowadzi do drażliwości, lęku i nadwrażliwości. Może prowadzić do nadmiernych reakcji emocjonalnych, trudności w radzeniu sobie ze stresem i zmniejszonej empatii.
-* Mikrosny, zwiększone ryzyko wypadków: mogą zdarzać którkie utraty pytomności trwające niekiedy nawet ok. 2 sekund, co zwiększa ryzyko wypadków szczególnie tych na drodze.
+* Zmniejszona odporność: układ odpornościowy może się osłabić, co zwiększa naszą podatność na infekcje.
+* Zmiany nastroju i zaburzenia emocjonalne: niedobór snu często prowadzi do drażliwości, lęku i nadwrażliwości. Może prowadzić do nadmiernych reakcji emocjonalnych, trudności w radzeniu sobie ze stresem i zmniejszonej empatii.
+* Mikrosny, zwiększone ryzyko wypadków: mogą zdarzać krótkie utraty przytomności trwające niekiedy nawet ok. 2 sekund, co zwiększa ryzyko wypadków szczególnie tych na drodze.
 
 ### Zwiększonego ryzyko chorób
 
