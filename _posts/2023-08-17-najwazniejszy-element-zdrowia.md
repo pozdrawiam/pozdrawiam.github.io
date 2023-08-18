@@ -158,11 +158,13 @@ Pozostałe zagadnienia dotyczące snu:
 
 **Wybudzanie** ze snu, zwłaszcza w środku fazy REM, może zakłócać naturalne cykle snu, prowadząc do wzrostu poziomu hormonu stresu - kortyzolu. Właśnie z tego powodu, korzystanie z funkcji drzemki w budziku nie jest zalecane. Każde dodatkowe wybudzanie może zwiększać poziom stresu, czyniąc nas bardziej zmęczonymi i mniej wypoczętymi.
 
+**Chrapanie** może być nie tylko źródłem frustracji dla partnera śpiącego obok, ale także oznaką poważniejszych problemów zdrowotnych, takich jak bezdech senny.
+
+**Ziewanie** to powszechny odruch. Choć tradycyjnie kojarzone jest z nudą lub zmęczeniem, ziewanie pełni kilka funkcji, w tym chłodzenie mózgu poprzez przepływ chłodniejszej krwi oraz pomoc w rozciągnięciu płuc i otaczających je tkanek. Jest zaraźliwe - widok czy dźwięk ziewającej osoby prowadzi do naszego własnego odruchu ziewania, co związane jest lustrzającymi neuronami w mózgu, które pomagają nam naśladować i rozumieć działania innych.
+
 **Kawa** jest jednym z najczęściej spożywanych napojów na świecie, znana przede wszystkim z zawartej w niej kofeiny, które nie tyle nas pobudza, ile oszukuje nasz mózg, blokując receptory odpowiedzialne za odczuwanie zmęczenia. Mimo to kawa ma wiele korzyści zdrowotnych, warto ją jednak spożywać odpowiednio wcześnie w ciągu dnia. Kofeina może pozostawać w naszym systemie przez wiele godzin, wpływając na zdolność do zasypiania i jakość snu.
 
 **Alkohol**, chociaż może pomóc w zasypianiu, rzeczywiście zakłóca głębokie fazy snu, czyniąc go mniej wypoczywającym.
-
-**Chrapanie** może być nie tylko źródłem frustracji dla partnera śpiącego obok, ale także oznaką poważniejszych problemów zdrowotnych, takich jak bezdech senny.
 
 **Praca zmianowa**, zwłaszcza nocne zmiany, wpływa negatywnie na nasze naturalne rytmy dobowe. Wiele badań sugeruje, że tak zwane nocki powinny być to traktowane jako warunki pracy szkodliwe dla zdrowia.
 
