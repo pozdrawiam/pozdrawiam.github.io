@@ -53,6 +53,7 @@ Niedosypianie i bagatelizowanie znaczenia zdrowego snu mogą prowadzić do negat
 * **Zmniejszona odporność**: układ odpornościowy może się osłabić, co zwiększa naszą podatność na infekcje.
 * **Zmiany nastroju i zaburzenia emocjonalne**: niedobór snu często prowadzi do drażliwości, lęku i nadwrażliwości. Może prowadzić do nadmiernych reakcji emocjonalnych, trudności w radzeniu sobie ze stresem i zmniejszonej empatii.
 * **Mikrosny, zwiększone ryzyko wypadków**: mogą zdarzać krótkie utraty przytomności trwające niekiedy nawet kilka sekund, co zwiększa ryzyko wypadków szczególnie tych na drodze.
+* **Bóle**: mogą pojawiać się bóle głowy, oczu i innych części ciała.
 
 ### Zwiększonego ryzyko chorób
 
