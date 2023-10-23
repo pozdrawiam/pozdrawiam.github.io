@@ -155,6 +155,10 @@ Umożliwia pedałowanie podczas pracy. Może pomóc w utrzymaniu kondycji fizycz
 Poduszka sensoryczna do siedzenia dynamicznego wymusza dodatkowe mikro ruchy podczas długich godzin siedzenia przed biurkiem. Posiada wbudowane wypustki, które umożliwiają ruchy dynamiczne podczas siedzenia, co pozwala na pobudzenie mięśni brzucha, pleców i nóg. 
 Można na niej siedzieć lub podeprzeć odcinek lędźwiowy kręgosłupa.
 
+#### Smartwatch lub smartband
+
+W dobie nowoczesnych technologii smartwatche i smartbandy stały się nie tylko symbolem stylu, ale też wszechstronnym narzędziem dbania o zdrowie. Jednym z kluczowych zastosowań tych urządzeń jest funkcja przypominania o konieczności wstania czy podjęcia aktywności. Takie powiadomienie może być kluczem do utrzymania dobrej kondycji i zapobiegania dolegliwościom związanym z siedzącym trybem życia. Poza tym smartwatche monitorują tętno, jakość snu, ilość kroków czy poziom tlenu we krwi. Wszystkie te funkcje zachęcają do bardziej świadomej dbałości o zdrowie.
+
 ## Podsumowanie
 
 Higiena i wydajność pracy biurowej to pozornie niewielkie, ale w długim okresie czasowym kluczowe elementy, które warto brać pod uwagę, aby utrzymać zdrowie i dobre samopoczucie podczas wykonywania swoich zadań i projektów. Warunki w miejscu pracy i inne wymienione zagadnienia pomagają w zwiększeniu skupienia, zmniejszeniu stresu i ryzyka wystąpienia problemów związanych z pracą przy komputerze oraz szybszym wyszukiwaniu informacji co zwiększa nasz potencjał.
