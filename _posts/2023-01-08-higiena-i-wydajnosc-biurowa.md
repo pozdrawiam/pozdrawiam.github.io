@@ -87,6 +87,8 @@ Open space może też prowadzić do większej liczby interakcji między pracowni
 Dlatego, przed wyborem open space jako rozwiązania przestrzennego, warto rozważyć indywidualne potrzeby pracowników i zastanowić się, czy taki styl pracy będzie odpowiedni dla nich oraz dla charakteru pracy, jaką wykonują. 
 Alternatywą dla open space jest przestrzeń zamknięta, taka jak gabinety, co pozwala na zachowanie prywatności i skupienia.
 
+![Biuro vs OpenSpace](/assets/img/posts/office-comparison.jpg){: w="700" }
+
 ## Znaj swoje narzędzia
 
 Aplikacje i systemy, które wykorzystujemy na co dzień, warto poznać lepiej, aby efektywniej z nich korzystać. Znacznym przyspieszeniem pracy będzie nauka skrótów klawiszowych - na każdą wielokrotnie wykonywaną czynność przeważnie przewidziany jest jakiś skrót.
