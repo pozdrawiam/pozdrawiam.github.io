@@ -126,6 +126,8 @@ Istnieje wiele teorii dotyczących funkcji marzeń sennych. Niektóre z nich sug
 Zdarza się, że czasami niektóre osoby potrafią kontrolować elementy swojego snu, co daje im możliwość kierowania przebiegiem marzeń sennych - takie rzadkie wydarzenie nazywane jest _świadomym snem_. 
 Istnieją techniki takie jak dziennik snów, które pomagają zapamiętywaniu marzeń sennych oraz częstszemu doświadczaniu świadomych snów, co można wykorzystać na kreatywne sposoby np. w celu poszukiwanie inspiracji.
 
+![Marzenia senne](/assets/img/posts/sleep-dreams.jpg){: w="700" }
+
 ## Chronotypy
 
 **Chronotypy** to indywidualne preferencje dotyczące aktywności w ciągu dnia oraz cyklu snu i czuwania, które wynikają z wewnętrznego zegara biologicznego człowieka. Chronotyp wpływa na nasze naturalne tendencje do funkcjonowania o określonych porach dnia i nocy. Są w dużej mierze uwarunkowane genetycznie, ale mogą ewoluować w ciągu życia. Istnieją różne chronotypy, które można zaklasyfikować głównie do następujących kategorii:
