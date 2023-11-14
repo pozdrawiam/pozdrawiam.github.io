@@ -8,6 +8,8 @@ tags: [nawyki]
 Początek roku to czas gdy wszelkie Janusze i Grażyny składają sobie ambitne postanowienia dotyczące zmian, jakie podobno chcą u siebie wprowadzić. 
 Często są to cele dotyczące zdrowia, pracy, czy relacji z innymi ludźmi. Niestety, wiele osób składa sobie postanowienia, które nie są realne do zrealizowania lub też nie do końca wiedzą, jak się za nie zabrać. 
 
+![Postanowienia noworoczne](/assets/img/posts/new-year-habits.jpg){: w="400" }
+
 ## Rodzaje celów
 
 Cele mogą być małe i duże. Czasami może być to pojedyncze zadanie, lub kilka mniejszych, a czasem potrzeba systematyczności, żeby kiedyś go osiągnąć.
