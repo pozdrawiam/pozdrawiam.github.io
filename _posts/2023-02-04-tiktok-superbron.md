@@ -66,3 +66,5 @@ W dłuższej perspektywie jedynym sposobem zapobiegania cyfrowej demencji jest p
 ## Podsumowanie
 
 Aplikacje społecznościowe niszczą tak stopniowo, że wydają się nieszkodliwe. W kilka lat mogą zniszczyć całe pokolenie, nie można czekać z działaniem, aż jej skutki będą widoczne, bo wtedy będzie już za późno.
+
+![Negatywne media społecznościowe](/assets/img/posts/social-media-negatives.jpg){: w="700" }
