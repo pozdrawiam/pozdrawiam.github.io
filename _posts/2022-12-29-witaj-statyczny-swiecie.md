@@ -9,6 +9,8 @@ Pierwszy, początkowy, inaugurujący, inicjujący wpis...
 
 Na tym blogu będę pisał o różnych aspektach programowania oraz tematach wartych uwagi w oparciu o pragmatyczne doświadczenia, czyli przede wszystkim **o tym, co jest skuteczne i działa w praktyce**.
 
+![Pisanie bloga](/assets/img/posts/blog-writing.jpg){: w="500" }
+
 ## Skąd pomysł na ten blog
 
 Stworzenie bloga, czy strony wizytówki chodziło za mną od dawna. Jest to popularne zajęcie po pracy wśród specjalistów branży IT i stanowi jeden z elementów marki osobistej. 
