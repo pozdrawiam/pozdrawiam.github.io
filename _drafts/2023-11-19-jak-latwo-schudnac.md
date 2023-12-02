@@ -23,6 +23,5 @@ nawyki, małe zmiany w diecie
 - nie zajadanie stresu
 - post przerywane
 - link do nawyków
-- olej z czarnuszki
-- zakupy, lista, nutriskore
-- witamina D
+
+W tym artykule listuję nawyki i zmiany żywieniowe, które pomogły mi zrzucić zbędne kligramy. Bez skupiania się na restrykcyjnych dietach czy wyczerpujących treningach proponuję małe kroki, które można łatwo włączyć do swojej codziennej rutyny, a w dłuższej perspektywie mogą przynieść wymierne rezultaty.
