@@ -51,3 +51,13 @@ Spożywanie zielonej kawy może mieć kilka korzyści dla osób dążących do u
 Jednakże, ważne jest, by pamiętać, że zielona kawa nie jest cudownym środkiem i powinna być stosowana jako uzupełnienie zbilansowanej diety i zdrowego stylu życia. Ponadto, warto konsultować się z lekarzem przed wprowadzeniem zielonej kawy do diety, szczególnie jeśli ma się problemy zdrowotne lub przyjmuje się określone leki.
 
 Spożywanie zielonej kawy w formie naparu czy suplementu może być prostym sposobem na wsparcie procesu odchudzania, oferując dodatkowe korzyści zdrowotne, takie jak poprawa koncentracji i zwiększenie poziomu energii.
+
+## Aktywność fizyczna
+
+Aktywność fizyczna jest nieodłącznym elementem zdrowego odchudzania. Regularne ćwiczenia nie tylko przyspieszają spalanie kalorii, ale również wpływają pozytywnie na nasze samopoczucie, kondycję i ogólną kondycję zdrowotną. Jednym z najprostszych sposobów na zwiększenie aktywności w codziennym życiu jest dążenie do wykonania określonej liczby kroków każdego dnia.
+
+Zaleca się, aby dążyć do wykonania co najmniej 6 000 kroków dziennie jako minimum dla zdrowego stylu życia, natomiast idealnym celem jest osiągnięcie 10 000 kroków. Regularne chodzenie, nawet na krótkich dystansach, może mieć znaczący wpływ na zdrowie, pomagając w utrzymaniu zdrowej wagi, poprawiając krążenie i zwiększając wytrzymałość.
+
+Aby ułatwić sobie osiągnięcie tego celu, można stosować prostych trików, takich jak parkowanie samochodu w dalszej odległości od celu, korzystanie ze schodów zamiast windy, czy dłuższe spacery z psem. Używanie krokomierza lub aplikacji na smartfonie do śledzenia liczby kroków może być również motywujące i pomóc w monitorowaniu postępów.
+
+Pamiętajmy, że każdy rodzaj aktywności fizycznej jest cenny, a regularne włączanie ruchu do codziennej rutyny to jeden z najskuteczniejszych sposobów na utrzymanie zdrowej wagi i dobrego samopoczucia. Więc zacznijmy krok po kroku i cieszmy się zdrowszym, aktywniejszym życiem.
