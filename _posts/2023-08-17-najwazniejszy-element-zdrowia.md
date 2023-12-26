@@ -185,6 +185,7 @@ Istnieje wiele akcesoriów i gadżetów zaprojektowanych tak, aby pomóc w popra
 * **Opaska na oczy**: W celu zablokowania dostępu światła, szczególnie w jasnych środowiskach lub podczas podróży. Pomaga w zredukowaniu zakłóceń snu spowodowanych przez zmienne warunki świetlne, takie jak światła uliczne czy wczesny wschód słońca.
 * **Aplikacje do śledzenia snu**: Dostępne na smartfony lub smartwatche, pomagają monitorować jakość i długość snu.
 * **Herbatki i zioła**: Melisa, szyszka chmielu lub inne mieszanki ziół mają właściwości relaksacyjne i odprężające.
+* **Kiwi**: Dzięki zawartości witamin, minerałów i serotoniny jedzenie tego owocu na 1-2 godziny przed snem może poprawić jego jakość i ułatwić zasypianie.
 * **Suplementy z melatoniną**: Pomocne dla osób pracujących na zmiany, podróżujących między strefami czasowymi, lub w podeszłym wieku, aby dostosować swój wewnętrzny zegar biologiczny. Jednak zawsze warto skonsultować się z lekarzem przed rozpoczęciem suplementacji.
 
 ## Podsumowanie
