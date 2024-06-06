@@ -7,11 +7,3 @@ services:
     ports:
       - "4000:4000"
     command: bundle exec jekyll serve --drafts --host 0.0.0.0
-  
-  blog_prod:
-    build: .
-    volumes:
-      - .:/srv/jekyll
-    ports:
-      - "4001:4000"
-    command: bundle exec jekyll serve --host 0.0.0.0
