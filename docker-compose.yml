@@ -6,4 +6,4 @@ services:
       - .:/srv/jekyll
     ports:
       - "4000:4000"
-    command: bundle exec jekyll serve --drafts --host 0.0.0.0
+    command: bundle exec jekyll serve --drafts --force_polling --host 0.0.0.0

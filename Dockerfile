@@ -7,8 +7,8 @@ RUN apt-get update && \
 RUN gem install jekyll bundler
 
 WORKDIR /srv/jekyll
-COPY . .
 
+COPY Gemfile* ./
 RUN bundle install
 
 EXPOSE 4000
