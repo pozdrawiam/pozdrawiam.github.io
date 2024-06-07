@@ -1,7 +1,7 @@
 ---
 title: Najlepszy film na YouTube
 date: 2024-06-03 17:58
-categories: [Rozwój]
+categories: [Rozwój, Umiejętności]
 tags: []
 ---
 
