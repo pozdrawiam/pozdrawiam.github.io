@@ -2,7 +2,7 @@
 title: Najlepszy film na YouTube
 date: 2024-06-03 17:58
 categories: [Rozwój, Umiejętności]
-tags: []
+tags: [video, youtube]
 ---
 
 Jeden z najbardziej wartościowych filmów na polskim YouTube, czyli film o prawdzie i fałszu.
