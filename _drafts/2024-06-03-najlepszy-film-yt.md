@@ -13,10 +13,10 @@ Jak odnaleźć się w świecie pełnym informacji?
 Jak odróżnić prawdę od fałszu?
 Które media mają racją?
 Jak zdemaskować fake news'a?
-Dlaczego nie wsposób zmienić czyjeś zdanie?
-Czy przyznanie się do błędu to aby napewno porażka?
+Dlaczego nie w sposób zmienić czyjeś zdanie?
+Czy przyznanie się do błędu to aby na pewno porażka?
 Dlaczego czasami sama informacja prawdziwa nie wystarcza?
-Czy gożka prawda jest gorsza od życia w błędzie?
+Czy gorzka prawda jest gorsza od życia w błędzie?
 
 Te i wiele innych kwestii omawia poniższe wideo.
 
