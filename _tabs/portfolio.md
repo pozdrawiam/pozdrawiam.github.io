@@ -4,6 +4,8 @@ order: 5
 title: Portfolio
 ---
 
+Lista małych projektów pobocznych open source tworzonych na potrzeby własne oraz do nauki.
+
 | Projekt | Technologie | |
 |---|---|---|
 | ResponseRadar | ASP.NET Core RazorPages, EntityFramework, xUnit | [Szczegóły](/posts/projekt-rr/){:target="_blank"} \| [GitHub](https://github.com/pozdrawiam/ResponseRadar){:target="_blank"}
