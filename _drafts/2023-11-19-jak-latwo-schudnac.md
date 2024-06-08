@@ -5,6 +5,7 @@ categories: [Ogólne, Warto wiedzieć]
 tags: [zdrowie]
 ---
 
+<!--
 todo:
 
 nawyki, małe zmiany w diecie
@@ -27,6 +28,7 @@ x- post przerywane
 x- olej z czarnuszki
 x- zakupy, lista, nutriskore
 x- witamina D
+-->
 
 W tym artykule listuję nawyki i zmiany żywieniowe, które pomogły mi zrzucić zbędne kligramy. Bez skupiania się na restrykcyjnych dietach czy wyczerpujących treningach proponuję małe kroki, które można łatwo włączyć do swojej codziennej rutyny, a w dłuższej perspektywie mogą przynieść wymierne rezultaty.
 
