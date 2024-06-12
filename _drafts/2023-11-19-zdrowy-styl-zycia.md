@@ -1,5 +1,5 @@
 ---
-title: Jak łatwo schudnąć
+title: Nawyki zdrowego stylu życia
 date: 2023-11-19 21:39
 categories: [Ogólne, Warto wiedzieć]
 tags: [zdrowie]
