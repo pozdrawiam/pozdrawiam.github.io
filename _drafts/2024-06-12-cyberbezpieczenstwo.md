@@ -6,3 +6,15 @@ tags: [bezpieczeństwo, internet]
 ---
 
 todo
+
+<!--
+
+Todo:
+- hasła
+- https
+- publiczne wifi
+- aktualizacje
+- nielegalne oprogramowanie
+- phisihng: literówki w nazwach
+
+-->
