@@ -12,3 +12,5 @@ COPY Gemfile* ./
 RUN bundle install
 
 EXPOSE 4000
+
+RUN git config --global --add safe.directory /srv/jekyll
