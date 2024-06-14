@@ -16,5 +16,6 @@ Todo:
 - aktualizacje
 - nielegalne oprogramowanie
 - phisihng: literówki w nazwach
+- wszystko wrzucone do internetu traktuj jako publiczne
 
 -->
