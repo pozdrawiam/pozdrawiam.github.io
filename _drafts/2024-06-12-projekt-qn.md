@@ -21,8 +21,8 @@ Obsługuje przeglądarki oparte na Chromium i Mozilla Firefox.
 
 Dodatek do pobrania z:
 
-- [**Chrome Web Store**](https://chromewebstore.google.com/detail/szybka-notatka/bkmjekafgcdoahhbfmipkgdibfeifjhd)
-- [**Firefox Browser Add-Ons**](https://addons.mozilla.org/firefox/addon/browser-quick-note/)
+- [**Chrome Web Store**](https://chromewebstore.google.com/detail/szybka-notatka/bkmjekafgcdoahhbfmipkgdibfeifjhd){:target="_blank"}
+- [**Firefox Browser Add-Ons**](https://addons.mozilla.org/firefox/addon/browser-quick-note/){:target="_blank"}
 
 
 ## Użyte technologie
