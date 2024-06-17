@@ -28,6 +28,7 @@ x- post przerywane
 x- olej z czarnuszki
 x- zakupy, lista, nutriskore
 x- witamina D
+- inulina
 -->
 
 Lista nawyków związanych z dietą i zdrowym stylem życia, które można łatwo włączyć do swojej codziennej rutyny, a w dłuższej perspektywie mogą przynieść wymierne rezultaty i lepsze samopoczucie.
