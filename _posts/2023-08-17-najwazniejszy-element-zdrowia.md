@@ -192,3 +192,10 @@ Istnieje wiele akcesoriów i gadżetów zaprojektowanych tak, aby pomóc w popra
 
 Biologia i fizjologia snu są skomplikowanymi, ale niezwykle ważnymi obszarami, które nadal są przedmiotem badań. Zrozumienie, jak śpiący organizm funkcjonuje, nie tylko pomaga wyjaśnić to zjawisko, ale także ukazuje, jak kluczowa jest odpowiednia ilość i jakość snu dla ogólnego zdrowia i dobrostanu.
 Człowiek wyspany to osoba pełna energii, radosna i zmotywowana, gotowa stawiać czoła wyzwaniom każdego nowego dnia.
+
+## Materiały uzupełniające
+
+Film poniżej szczegółowo omawia istotę zdrowego snu.
+
+{% include embed/youtube.html id='1n6xa6stHVk' %}
+[Zobacz na YouTube](https://www.youtube.com/watch?v=1n6xa6stHVk){:target="_blank"}
