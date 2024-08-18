@@ -54,6 +54,18 @@ Po pracy gdy siadam do komputera wieczorem, próbuję zmuszać się do dark mode
 
 Nasze oczy są bardzo ważnym narządem i należy o nie odpowiednio dbać, szczególnie w przypadku długotrwałej pracy przy komputerze, czy nawet czytania książek i dokumentów z niewielkiej odległości.
 
+#### Zasada 20-20-20 
+
+To prosta technika stosowana w celu ochrony oczu przed zmęczeniem, które może wystąpić podczas długotrwałej pracy przed ekranem komputera, telefonem lub innym urządzeniem elektronicznym. Jest to szczególnie przydatne w erze cyfrowej, gdzie wiele osób spędza dużo czasu przed ekranami. 
+
+Zasada polega na tym, aby co 20 minut:
+
+1. **Przerwać** pracę i oderwać wzrok od ekranu.
+2. **Spojrzeć** na coś oddalonego o 20 stóp (około 6 metrów) – może to być obiekt za oknem, w pokoju lub po prostu przestrzeń w oddali.
+3. **Skupić wzrok** na tym obiekcie przez co najmniej 20 sekund.
+
+Zasada ta pomaga zmniejszyć napięcie mięśni oka, które odpowiedzialne są za skupienie wzroku na bliskich obiektach (np. ekranie), co może prowadzić do tzw. „cyfrowego zmęczenia oczu”. Dzięki regularnym przerwom można uniknąć suchości oczu, bólu głowy i ogólnego dyskomfortu związanego z długotrwałym patrzeniem na ekran.
+
 ## Mysz pionowa
 
 Myszy pionowe, zwane również myszkami ergonomicznymi, są specjalnie zaprojektowane, aby pomóc w utrzymaniu prawidłowej pozycji dłoni podczas pracy przy komputerze. Myszy tego typu mają unikalny kształt, który pozwala na trzymanie ich w pozycji pionowej, co zmniejsza nacisk na dłoń i przynosi ulgę w bólu i zmęczeniu mięśni. Dodatkowo, myszy tego typu mogą pomóc w zmniejszeniu ryzyka rozwoju chorób związanych z pracą przy komputerze, takich jak zespół cieśni nadgarstka. 
