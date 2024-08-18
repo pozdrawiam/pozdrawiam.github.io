@@ -13,7 +13,7 @@ Jeden z najbardziej wartościowych filmów na polskim YouTube, czyli film o praw
 * Jak odróżnić prawdę od fałszu?
 * Które media mają racją?
 * Jak zdemaskować fake news'a?
-* Dlaczego nie w sposób zmienić czyjeś zdanie?
+* Dlaczego nie sposób zmienić czyjeś zdanie?
 * Czy przyznanie się do błędu to aby na pewno porażka?
 * Dlaczego czasami sama informacja prawdziwa nie wystarcza?
 * Czy gorzka prawda jest gorsza od życia w błędzie?
