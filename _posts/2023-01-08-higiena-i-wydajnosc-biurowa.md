@@ -154,6 +154,7 @@ Mimo że posiadają wiele zalet, to większość z nich zajmuje sporo miejsca, w
 Pozwala na zmianę pozycji ciała i pracę w pozycji stojącej, co może pomóc zmniejszyć ryzyko bólu pleców i innych dolegliwości związanych z siedzącym trybem życia. 
 Podczas korzystania należy unikać stania na jednej nodze. Ważne, aby monitor i klawiatura nadal były na odpowiednich wysokościach.
 Dostępne są produkty z regulacją wysokości, zatem w zależności od potrzeb można pracować na stojąco i na siedząco. 
+Sam z takiego korzystam. Polecam od razu wybrać z regulacją elektryczną.
 
 #### Bieżnia pod biurko
 
