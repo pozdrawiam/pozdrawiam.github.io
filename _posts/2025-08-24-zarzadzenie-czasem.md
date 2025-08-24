@@ -71,6 +71,7 @@ To narzędzie nie tylko do planowania dnia, ale również do analizy tego, gdzie
 ## Scrum
 
 Scrum to metoda zwinna pracy zespołowej, w której projekty dzielone są na krótkie etapy – tzw. sprinty, zwykle trwające od jednego do czterech tygodni. Każdy sprint kończy się podsumowaniem postępów i omówieniem dalszych kroków, co pozwala zespołowi szybko reagować na zmiany i stale doskonalić sposób działania. Metoda świetnie sprawdza się w środowiskach dynamicznych, zwłaszcza w projektach IT czy przy produktach, które są rozwijane i ulepszane etapami. Warto jednak pamiętać, że Scrum nie jest optymalny wszędzie – przy powtarzalnych zadaniach rutynowych lub w strukturach bardzo hierarchicznych może być mniej skuteczny, ponieważ wymaga dużej elastyczności i samodzielności zespołu.
+Entuzjaści tej metody próbują ją zaadoptować do życia codziennego.
 
 ## todo.txt
 
