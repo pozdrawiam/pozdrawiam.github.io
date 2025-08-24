@@ -7,17 +7,15 @@ tags: [czas, nawyki, praca]
 
 Metody wspomagające wyznaczanie celów, organizację, ustalanie priorytetów i utrzymanie skupienia.
 
-## Getting Things Done  
+## Getting Things Done 
 
-Metoda Getting Things Done (GTD) Davida Allena to jedna z najbardziej rozpoznawalnych technik zarządzania czasem, stosowana zarówno przez freelancerów, jak i duże organizacje. Jej podstawą jest **przeniesienie wszystkich zadań i pomysłów z głowy do zaufanego systemu**, aby umysł nie musiał ich ciągle „przypominać”. Proces GTD składa się z kilku etapów:  
+GTD, czyli „doprowadzanie spraw do końca” to podejście, które pomaga zarówno w codziennych obowiązkach, jak i w realizacji dalekosiężnych celów. Jego fundamentem jest zasada: *umysł to świetne miejsce do tworzenia pomysłów, ale kiepskie do ich przechowywania*. Dlatego pierwszym krokiem jest zebranie wszystkich spraw w zewnętrznym systemie – aplikacji, notatniku czy pliku.  
 
-1. **Zbieranie** – zapisuj wszystko, co pojawia się w twojej głowie (zadania, pomysły, plany) w jednym miejscu, np. w aplikacji, notatniku czy arkuszu.  
-2. **Analiza** – każdemu punktowi nadaj znaczenie: czy można to zrobić w 2 minuty? Jeśli tak, zrób od razu. Jeśli nie, zdecyduj, czy zlecasz, planujesz, czy odkładasz.  
-3. **Organizowanie** – sortowanie zadań według kontekstu (np. telefon, komputer, dom) albo projektów.  
-4. **Przeglądanie** – regularny, np. cotygodniowy „przegląd” ułatwia utrzymanie systemu w ryzach.  
-5. **Realizacja** – wykonywanie pracy zgodnie z priorytetami wyłonionymi dzięki wcześniejszym krokom.  
+Następnie każdy element poddaje się przetwarzaniu: czy wymaga działania? Jeśli tak, to jakie jest najbliższe, konkretne **następne działanie** (np. „zadzwonić do biura podróży” zamiast ogólnego „zaplanować wakacje”). Dzięki temu duże projekty i cele są rozbijane na jasne, wykonane kroki.  
 
-Dzięki GTD czujesz się spokojniejszy, bo nic nie „wisi” w głowie i nie boisz się, że zapomnisz o ważnych rzeczach.  
+GTD wykorzystuje również **konteksty**, które grupują zadania w zależności od miejsca, narzędzi lub zasobów, jakimi dysponujesz. Dzięki temu, będąc np. przy komputerze, sięgasz od razu po listę rzeczy możliwych do zrobienia właśnie tam, bez gubienia się w setkach innych obowiązków. Specjalna lista **oczekujących** umożliwia śledzenie spraw przekazanych innym osobom lub czekających na decyzję – nie zapominasz o nich, ale nie obciążają twojej uwagi na co dzień.  
+
+Dodatkową siłą metody są tzw. **horyzonty skupienia uwagi** – od bieżących spraw, przez projekty i obszary odpowiedzialności, aż po długoterminowe cele i wizję życia. Dzięki temu GTD daje nie tylko **kontrolę nad codziennością**, ale także poczucie, że nawet najdrobniejsze zadanie przybliża cię do większego obrazka.  
 
 ## Technika Pomodoro  
 
