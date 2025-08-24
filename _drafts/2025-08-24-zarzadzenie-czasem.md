@@ -5,7 +5,7 @@ categories: [Rozwój, Produktywność]
 tags: [czas, nawyki, praca]
 ---
 
-Metody wspomagające wyznaczanie celów, organizację, ustalanie priorytetów i utrzymanie skupienia.
+Metody wspomagające wyznaczanie celów, organizację zadań i notatek, ustalanie priorytetów i utrzymanie skupienia. Dzięki nim łatwiej opanować codzienny chaos, zmienić duże plany na konkretne kroki i zyskać większą kontrolę nad pracą oraz czasem wolnym.
 
 ## Getting Things Done 
 
