@@ -39,7 +39,7 @@ Wywodzi się z japońskiego systemu produkcyjnego i polega na **wizualnym przeds
 
 Zadania przedstawiamy na kartkach samoprzylepnych lub w aplikacji (np. Trello, Asana, Notion). Zaletą Kanbana jest ograniczanie liczby zadań realizowanych jednocześnie (tzw. **WIP – work in progress**). Dzięki temu nie rozpraszamy się na wielu frontach, tylko kończymy jedno zadanie, zanim zaczniemy kolejne.  
 
-Dodatkowo widok „Zrobione” daje satysfakcję, bo od razu dostrzegasz postępy – a to świetnie motywuje.  
+Dodatkowo widok „Zrobione” daje satysfakcję, bo od razu dostrzegasz postępy – a to świetnie motywuje. Największy potencjał Kanbana ujawnia się w zadaniach powtarzalnych i wieloetapowych, które naturalnie dają się rozłożyć na kolumny. Wtedy tablica staje się nie tylko listą, ale przejrzystą mapą całego procesu.  
 
 ## Medium method  
 
@@ -73,6 +73,10 @@ To narzędzie nie tylko do planowania dnia, ale również do analizy tego, gdzie
 ## Scrum
 
 Scrum to metoda zwinna pracy zespołowej, w której projekty dzielone są na krótkie etapy – tzw. sprinty, zwykle trwające od jednego do czterech tygodni. Każdy sprint kończy się podsumowaniem postępów i omówieniem dalszych kroków, co pozwala zespołowi szybko reagować na zmiany i stale doskonalić sposób działania. Metoda świetnie sprawdza się w środowiskach dynamicznych, zwłaszcza w projektach IT czy przy produktach, które są rozwijane i ulepszane etapami. Warto jednak pamiętać, że Scrum nie jest optymalny wszędzie – przy powtarzalnych zadaniach rutynowych lub w strukturach bardzo hierarchicznych może być mniej skuteczny, ponieważ wymaga dużej elastyczności i samodzielności zespołu.
+
+## todo.txt
+
+To niezwykle prosty sposób organizowania zadań cyfrowo, który opiera się na jednym pliku tekstowym. Wszystkie obowiązki zapisuje się tam według ustalonego formatu – można je oznaczać priorytetami, datami czy kontekstem (np. „@dom”, „@praca”). Dzięki temu zarządzanie jest lekkie, przejrzyste i działa praktycznie na każdym urządzeniu. Metoda sprawdza się u osób ceniących minimalizm i niezależność od rozbudowanych aplikacji. Nie nada się jednak do dużych projektów, bo pozbawiona jest funkcji wizualnych, powiadomień i współdzielenia w czasie rzeczywistym.
 
 ## Produktywne nawyki  
 
