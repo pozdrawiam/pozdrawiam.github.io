@@ -19,14 +19,16 @@ Dodatkową siłą metody są tzw. **horyzonty skupienia uwagi** – od bieżący
 
 ## Technika Pomodoro  
 
-Technika Pomodoro, stworzona przez Francesco Cirillo, to narzędzie dla osób, które zmagają się z odkładaniem zadań lub rozpraszaniem się. Cykl pracy dzieli się na **25 minut skupionej pracy** (zwanej „pomodoro”) oraz **5 minut przerwy**. Po czterech takich cyklach następuje dłuższą przerwa – od 15 do 30 minut.  
+Technika Pomodoro, stworzona przez Francesco Cirillo, to narzędzie dla osób, które zmagają się z odkładaniem zadań lub rozpraszaniem się. Cykl pracy dzieli się na **25 minut skupionej pracy** (zwanej „pomodoro”) oraz **5 minut przerwy**. Po czterech takich cyklach następuje dłuższa przerwa – od 15 do 30 minut.  
 
 Dlaczego to działa?  
-- 25 minut jest na tyle krótkim odcinkiem, by łatwo było się zmobilizować do startu.  
-- Krótkie przerwy zapobiegają zmęczeniu i przeciążeniu.  
-- Regularne cykle budują rytm pracy, co pomaga osiągnąć „flow”.  
+- 25 minut to krótki odcinek, który łatwo rozpocząć i utrzymać bez znużenia.  
+- Krótkie przerwy chronią przed przeciążeniem i poprawiają regenerację.  
+- Regularne cykle budują rytm i wspierają osiąganie stanu „flow”.  
 
-Choć metoda jest prosta, świetnie sprawdza się w nauce, pracy kreatywnej czy zadaniach, które wymagają konsekwentnego wysiłku. Można ją też dostosować – np. wydłużać sesje do 45 minut, jeśli dłużej potrafimy się skoncentrować.  
+W praktyce często planuje się zadania, szacując, ile pomodoros mogą zająć. Jeśli czynność jest większa, zostaje podzielona na kilka cykli, a jeśli krótsza — łączy się ją z innymi. Warto pamiętać, że pomodoro jest niepodzielne: jeśli sesja zostaje przerwana, należy rozpocząć ją od początku, dlatego dobrze jest dodać nieco zapasu przy planowaniu.  
+
+Choć metoda jest prosta, świetnie sprawdza się w nauce, pracy kreatywnej czy zadaniach wymagających konsekwencji. Można ją też dostosować — na przykład wydłużać sesje do 45 minut, jeśli dłużej potrafimy utrzymać koncentrację.  
 
 ## Osobisty Kanban  
 
